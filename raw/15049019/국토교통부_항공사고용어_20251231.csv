@@ -1,0 +1,46 @@
+영어용어,한글용어,설명
+Accident,사고 ,의도하지 않은 상황에서 인명 피해나 물적 손상이 발생한 사건
+Accident Prevention,사고예방 ,안전위해요소를 사전에 식별·제거·회피하는 활동
+Aircraft Accident,항공기 사고 ,항공기 운항과 관련해 사망·중상 또는 중대한 손상이 발생한 경우
+Aircraft Damage,항공기 손상 ,인명 피해 없이 항공기에 손상이 발생한 경우
+Airframe Damage,기체 손상 ,항공기 동체 구조에 발생한 손상
+Approach Accident,접근 단계 사고 ,착륙 접근 중 사고
+ATC Error,관제 오류 ,관제 판단·지시 오류
+Bird Strike,조류 충돌 ,항공기와 새의 충돌
+CFIT,지형 충돌 사고 ,정상 비행 중 지형·장애물 충돌
+Drone Collision,드론 충돌 ,무인기와의 충돌·근접 위험
+Evacuation,비상 탈출 ,사고 후 승객·승무원 대피
+Fatal Accident,사망 사고 ,사망자가 발생한 항공사고
+Fatal Injury,치명적 부상 ,사고 부상으로 30일 이내 사망에 이른 경우
+Flight Recorder,비행기록장치 ,FDR·CVR 등 조사용 기록 장치
+Fuel Exhaustion,연료 고갈 ,연료 소모로 엔진 정지
+Fuel Starvation,연료 부족 ,연료 공급 문제로 엔진 정지
+GCOL,지상 충돌 ,지상 이동 중 충돌
+Hazard,안전위해요소 ,사고를 유발할 수 있는 상태·조건·환경
+Hull Loss,전손 사고 ,항공기가 수리 불가능할 정도로 파손된 사고
+Human Factors,인적요인 ,인간·조직 특성이 안전에 미치는 영향
+Icing,결빙 사고 ,항공기 결빙으로 성능 저하
+Incident,사건 ,사고에는 이르지 않았으나 안전에 영향을 주었거나 줄 수 있었던 경우
+Landing Accident,착륙 단계 사고 ,착륙 중 또는 직후 사고
+LOC-I,비행 중 조종상실 ,비행 중 항공기 제어 상실
+MAC,공중 충돌 ,비행 중 항공기 간 충돌
+Maintenance Error,정비 과실 ,정비 과정의 오류로 발생한 사고 요인
+Mechanical Failure,기계적 고장 ,기계·장비 고장
+Mishap,예상되지 않은 사건 ,계획되지 않았으며 상해나 위험을 초래한 사건
+Occurrence Investigation,사건 조사 ,사고·준사고 원인 규명 조사
+Pilot Error,조종사 에러 ,조종 판단 오류나 절차 미준수와 관련된 요인
+Post-impact Fire,충돌 후 화재 ,충돌 이후 발생한 화재
+RE,활주로 이탈 ,이착륙 중 활주로 이탈
+RI,활주로 침입 ,활주로 보호구역 내 충돌 위험
+Risk,위험 ,안전위해요소로 인한 사고 발생 가능성과 영향의 정도
+Risk Mitigation,위험 완화 조치 ,재발 방지를 위한 개선 조치
+Safety Deficiency,안전 취약요인 ,사고로 드러난 안전 문제
+Serious Incident,준사고 ,사고로 이어질 가능성이 매우 높았던 사건
+Serious Injury,중상 ,48시간 이상 입원이 필요한 중대한 부상
+Structural Failure,구조적 고장 ,구조 부재의 파손·실패
+Substantial Damage,상당한 손상 ,구조·성능·비행특성에 중대한 영향을 주는 손상
+Survivability,생존 가능성 ,사고 상황에서의 생존 가능 정도
+System Malfunction,시스템 오작동 ,시스템의 비정상 작동
+Take-off Accident,이륙 단계 사고 ,이륙 중 또는 직후 사고
+Turbulence,난기류 사고 ,강한 난기류로 인한 사고·부상
+Weather-related Accident,기상 사고 ,악천후가 주요 원인인 사고

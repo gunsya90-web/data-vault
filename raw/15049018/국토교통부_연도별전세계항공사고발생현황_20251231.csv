@@ -1,0 +1,161 @@
+순번,일자,항공사,기종,비행단계,탑승,사망,사고 개요
+1,2025-01-02,Contour Aviation,CRJ-200LR,착륙중(LDG),24,0,착륙 후 제동 장치 결함으로 인한 활주로 오버런
+2,2025-01-03,Foxtrot Jet LLC,SF50 Vision Jet,이륙중(TOF),2,0,이륙 직후 엔진 출력 상실로 인한 비상 착륙
+3,2025-01-05,Air Dolomiti,ERJ-195LR,접근중(APR),98,0,접근 중 기내 연기 발생으로 인한 비상 선언 및 착륙
+4,2025-01-07,All Nippon Airways - ANA,B787-9,순항중(ENR),212,0,난기류 조우로 인한 기체 흔들림 및 승객 부상
+5,2025-01-07,Swan River Seaplanes,Cessna 208,이륙중(TOF),3,3,이륙 직후 실속에 의한 수면 추락
+6,2025-01-09,Norwegian Air International,B737-8JP,착륙중(LDG),164,0,결빙된 활주로에서 접지 후 방향 유지 불능 및 이탈
+7,2025-01-09,Private,Cessna 525,접근중(APR),1,1,시정 불량 상황에서 무리한 접근 중 지면 충돌
+8,2025-01-10,UPS,B767-34AF,이륙중(TOF),2,0,이륙 중 엔진 화재 경보로 인한 이륙 단념
+9,2025-01-10,Delta Air Lines,B757-351,순항중(ENR),188,0,순항 중 앞유리 균열 발생으로 인근 공항 비상 회항
+10,2025-01-11,Agropecuaria Maggi Ltda,Beech 350i,착륙중(LDG),4,0,랜딩 기어 미확장 상태에서 동체 착륙
+11,2025-01-17,SARAT Flight Logics,Let L-410,이륙중(TOF),2,0,이륙 중 조류 충돌로 인한 엔진 정지 및 비상 착륙
+12,2025-01-20,Superior Diesel Inc,Hawker 800XP,접근중(APR),6,0,접근 중 유압 계통 고장으로 인한 수동 착륙
+13,2025-01-21,Air Kasai,Antonov An-26B,착륙중(LDG),12,0,강풍 속 착륙 중 주 랜딩 기어 파손
+14,2025-01-24,United Airlines,B787-8,순항중(ENR),240,0,기내 여압 시스템 이상으로 인한 비상 강하
+15,2025-01-28,Max Air,B737-4D7,착륙중(LDG),110,0,착륙 시 타이어 파손 및 림 손상에 의한 활주로 점유
+16,2025-01-28,Air Busan,A321-231,접근중(APR),172,0,윈드시어(Windshear) 감지로 인한 고어라운드 시도
+17,2025-01-29,American Eagle,CRJ-701ER,접근중(APR),67,67,폭설 속 접근 중 급격한 실속으로 인한 추락
+18,2025-01-29,Ministry of Interior,Cessna S550,순항중(ENR),3,3,기상 악화 속 산악 지형 통과 중 충돌
+19,2025-01-29,Light Air Services,Beech 1900D,순항중(ENR),20,20,공중 기계 결함으로 인한 통제 불능 추락
+20,2025-01-31,Jet Rescue,Learjet 55,접근중(APR),8,8,야간 접근 중 고도 판단 오류로 인한 추락
+21,2025-02-01,TBM Inc,C-130A,지상이동(TXI),3,0,유도 지시 오류로 인한 지상 구조물 접촉
+22,2025-02-01,American Eagle,CRJ-200LR,착륙중(LDG),48,0,하드 랜딩으로 인한 동체 하부 손상
+23,2025-02-03,Sunwing Airlines,B737 MAX 8,이륙중(TOF),176,0,테일 스트라이크(Tail Strike) 발생 후 회항
+24,2025-02-05,Navigator,Antonov An-2R,이륙중(TOF),2,0,저고도 실속에 의한 불시착
+25,2025-02-05,Delta Air Lines,B737-832,순항중(ENR),152,0,순항 중 엔진 방빙 장치 결함으로 인한 회항
+26,2025-02-05,Japan Airlines (JAL),B787-9,접근중(APR),224,0,접근 중 대기속도 지시계 이상 발견
+27,2025-02-06,Bering Air,Cessna 208B,순항중(ENR),10,10,심한 착빙(Icing)으로 인한 고도 유지 불가 및 추락
+28,2025-02-06,Metrea Special Aero,Beech 350,순항중(ENR),4,4,임무 비행 중 원인 미상의 공중 분해
+29,2025-02-06,Tropicair,DHC-6-400,착륙중(LDG),14,0,측풍에 밀려 활주로 옆 초지 이탈
+30,2025-02-10,WW Aviation Inc,Gulfstream G200,이륙중(TOF),2,1,이륙 중 활주로 끝단 장벽 충돌
+31,2025-02-10,Chromed in Hollywood,Learjet 35A,접근중(APR),2,1,계기판 오작동으로 인한 비정상 강하
+32,2025-02-10,Air Urga (UN),An-26B-100,착륙중(LDG),18,0,브레이크 고장으로 인한 정지 실패
+33,2025-02-13,British Airways,B777-36NER,순항중(ENR),294,0,기내 주방 화재 발생으로 긴급 회항
+34,2025-02-13,Southwest Airlines,B737-7H4,착륙중(LDG),132,0,폭우 속 수막현상에 의한 제동 거리 초과
+35,2025-02-14,Skydive Palatka,Cessna 208A,이륙중(TOF),12,1,이륙 중 탑승자 이동에 의한 무게중심 이탈
+36,2025-02-17,Delta Connection,CRJ-900LR,착륙중(LDG),74,0,노즈 기어 결함으로 인한 활주로 이탈
+37,2025-02-28,SkyCare Air Ambulance,SA226-TC,접근중(APR),2,0,안개 속 접근 중 비상 착륙 시도
+38,2025-03-02,Southwest Airlines,B737 MAX 8,이륙중(TOF),168,0,이륙 중 타이어 파편이 기체 하부 강타
+39,2025-03-04,Ashy M LLC,Honda HA-420,착륙중(LDG),4,0,착륙 시 속도 조절 실패로 인한 활주로 오버런
+40,2025-03-04,SAETA Peru,BAe 3201,이륙중(TOF),12,0,가속 중 조종계통 중단 경보로 인한 이륙 포기
+41,2025-03-07,Indian Air Force,Antonov An-32,착륙중(LDG),6,0,야간 착륙 중 하드 랜딩으로 인한 메인 기어 파손
+42,2025-03-09,Ryan Air LLC,Cessna 750,접근중(APR),5,0,접근 중 전기 시스템 총체적 결함 발생
+43,2025-03-09,Wheels Up Partners,Beech 300,착륙중(LDG),4,0,착륙 후 조향 장치 고장으로 인한 활주로 고립
+44,2025-03-13,American Airlines,B737-823,순항중(ENR),148,0,순항 중 엔진 오일 저압 경보로 인한 회항
+45,2025-03-13,LBL 525 CZ LLC,Cessna 525A,접근중(APR),2,1,하강 중 조종사 의식 상실 추정 추락
+46,2025-03-17,LANHSA,BAe-3212,순항중(ENR),12,12,순항 중 갑작스러운 기수 하강 및 추락
+47,2025-03-18,Fuerza Aerea del Peru,DHC-6 Twin,이륙중(TOF),16,0,정글 지역 이륙 중 엔진 출력 감소로 불시착
+48,2025-03-19,Bighorn Airways,DHC-8-103,착륙중(LDG),32,0,강한 측풍으로 인한 활주로 주변 구조물 충돌
+49,2025-03-19,Tecs Zeltzer Elliot,Cessna 550,접근중(APR),5,0,계기 접근 중 고도 미확보로 지면 근접 경보 발생
+50,2025-03-22,Trident Aviation,DHC-5D Buffalo,순항중(ENR),5,5,화물 이동에 의한 통제력 상실 및 추락
+51,2025-03-24,Galati Yacht Sales,SF50 G2+,착륙중(LDG),2,0,파라슈트(CAPS) 전개 후 지면 착륙
+52,2025-03-26,Draken Europe,Falcon 20E,훈련중(MNV),3,0,기동 중 연료 공급 장치 이상으로 비상 착륙
+53,2025-03-27,United Airlines,B787-9,순항중(ENR),262,0,기내 배터리 팩 화재 발생으로 소화 작업 및 회항
+54,2025-04-07,Andy Leavitt Ent.,Honda HA-420,이륙중(TOF),3,0,이륙 가속 중 조류 충돌로 엔진 손상
+55,2025-04-10,Talon Air,Gulfstream V,착륙중(LDG),8,0,착륙 직후 브레이크 잠김에 의한 타이어 화재
+56,2025-04-11,Air Ocean Maroc,Hawker 800XPi,접근중(APR),4,0,항법 장치 오류로 인한 경로 이탈 비상 착륙
+57,2025-04-14,Air Algerie,B737-8D6,순항중(ENR),134,0,기내 여압 장치 이상으로 산소마스크 전개 및 회항
+58,2025-04-17,Southwest Airlines,B737-7BD,이륙중(TOF),128,0,이륙 가속 중 미확인 소음으로 인한 이륙 중단
+59,2025-04-17,Tropic Air,Cessna 208B,접근중(APR),8,1,악천후 속 접근 중 수면 충돌
+60,2025-04-20,Southwest Airlines,B737-7H4,착륙중(LDG),142,0,하드 랜딩으로 인한 동체 피로 균열 발생
+61,2025-04-25,Royal Thai Police,DHC-6-400,순항중(ENR),6,6,산악 지형에서 기상 악화로 인한 실종 후 추락 확인
+62,2025-05-02,Aereo Servicio Guerrero,Cessna 208B,착륙중(LDG),12,0,연약 지반 착륙 중 노즈 기어 침하 및 파손
+63,2025-05-03,IBM Airlines,B737-290C,순항중(ENR),20,20,노후 기체의 구조적 결함으로 인한 공중 분해
+64,2025-05-06,Grand Canyon Scenic,DHC-6-300,접근중(APR),14,0,접근 중 돌풍에 의한 기체 흔들림 및 경미한 충돌
+65,2025-05-15,Enter Air,B737-8Q8,순항중(ENR),182,0,엔진 연소 불안정으로 인한 단일 엔진 비상 착륙
+66,2025-05-16,Air Panama,Fokker 50,착륙중(LDG),42,0,착륙 시 플랩 미작동으로 인한 고속 접지
+67,2025-05-22,Daviator LLC,Cessna S550,순항중(ENR),6,6,자동조종장치 고장 후 통제 불능 및 수직 추락
+68,2025-05-29,South Korean Navy,P-3CK Orion,순항중(ENR),4,4,훈련 중 원인 미상의 해상 추락
+69,2025-05-30,Iberia,A320-214,착륙중(LDG),158,0,활주로 내 이물질(FOD)로 인한 엔진 손상 및 이탈
+70,2025-06-03,Automaquinarias,Cessna 500,접근중(APR),5,5,접근 중 연료 고갈로 인한 엔진 정지 및 추락
+71,2025-06-05,Scenic Air Safaris,Cessna 208B,이륙중(TOF),8,0,이륙 직후 엔진 서지(Surge) 발생으로 불시착
+72,2025-06-06,Inversiones 777 S.A.,Let L-410,접근중(APR),3,3,가시거리 미확보 상태에서 활주로 인근 추락
+73,2025-06-08,United Airlines,B737 MAX 8,착륙중(LDG),162,0,기어 고정 장치 결함으로 착륙 후 노즈 기어 붕괴
+74,2025-06-08,Skydive Tennessee,DHC-6-100,이륙중(TOF),14,0,가속 중 엔진 방화벽 화재 발생
+75,2025-06-10,Scoot,B787-8,순항중(ENR),312,0,객실 내 연기 발생으로 인근 공항 회항
+76,2025-06-10,RegionAvia,An-2TP,착륙중(LDG),2,0,농경지 비상 착륙 중 기체 전복
+77,2025-06-11,Transair,Shorts 360,이륙중(TOF),2,0,가속 중 프로펠러 피치 조절 이상으로 이륙 포기
+78,2025-06-12,Air India,B787-8,순항중(ENR),260,260,순항 중 갑작스러운 통신 두절 및 공중 분해
+79,2025-06-14,Southwest Airlines,B737-7H4,순항중(ENR),138,0,유압 누유 경보로 인한 안전 착륙
+80,2025-06-18,Norwegian Air Sweden,B737-8JP,착륙중(LDG),168,0,활주로 중심선 이탈로 인한 라이트 파손
+81,2025-06-18,TAB Air Charters,Beech 200,접근중(APR),6,0,접근 중 배터리 전원 상실로 시각 의존 착륙
+82,2025-06-27,Singapore Airlines,A350-941,순항중(ENR),244,0,엔진 오일 오염 징후로 예방적 회항
+83,2025-06-30,Private,Cessna 208,착륙중(LDG),5,0,불완전한 접지로 인한 통통 튀는 착륙(Bounced Landing)
+84,2025-07-01,Private,Learjet 45XR,접근중(APR),4,0,비 내리는 활주로에서 정지 거리 부족으로 이탈
+85,2025-07-02,United Airlines,B737-924ER,이륙중(TOF),162,0,이륙 가속 중 기내 해치 열림 경보로 중단
+86,2025-07-02,Private,BAe-125,착륙중(LDG),6,0,지면 충격으로 인한 보조 날개 손상
+87,2025-07-02,Skydive Cross Keys,Cessna 208B,이륙중(TOF),14,0,이륙 중 엔진 이상으로 활주로 내 정지
+88,2025-07-05,Ryanair UK,B737-8AS,접근중(APR),178,0,낙뢰(Lightning strike) 조우 후 비상 착륙
+89,2025-07-06,DOSAAF Chita,An-2T,착륙중(LDG),2,0,거친 착륙으로 인한 동체 파손
+90,2025-07-07,SkyUp Europe,A321-251N,순항중(ENR),188,0,객실 조리도구 가열로 인한 연기 소동
+91,2025-07-08,Dalzoloto LLC,An-2TP,이륙중(TOF),2,0,이륙 출력 부족으로 인한 고도 확보 실패
+92,2025-07-08,Zoloto Ynykchana,An-2R,접근중(APR),2,0,저시정 상태에서 수목 접촉 후 비상 착륙
+93,2025-07-08,Volotea,A319-111,순항중(ENR),142,1,순항 중 기압 감소로 인한 승객 호흡 곤란 및 사망
+94,2025-07-12,Frontier Airlines,A320-251N,착륙중(LDG),172,0,착륙 시 브레이크 과열 및 연기 발생
+95,2025-07-13,Zeusch Aviation BV,Beech B200,접근중(APR),4,4,계기 비행 중 지형 지지물 충돌(CFIT)
+96,2025-07-13,Tropicair,Cessna 208B,착륙중(LDG),10,0,활주로 노면 불량으로 인한 기체 요동
+97,2025-07-14,Delta Connection,ERJ-175LR,이륙중(TOF),72,0,이륙 직후 기어 수납 불능으로 회항
+98,2025-07-16,Ethiopian Airlines,DHC-8-402Q,착륙중(LDG),68,0,젖은 활주로에서 미끄러짐 발생
+99,2025-07-17,Delta Connection,CRJ-900LR,접근중(APR),74,0,하강 중 기압계 오작동 보고
+100,2025-07-18,United Airlines,A319-131,순항중(ENR),124,0,순항 중 엔진 계통 결함으로 불시 회항
+101,2025-07-18,Breeze Airways,A220-300,이륙중(TOF),118,0,가속 중 엔진 파편 배출로 이륙 단념
+102,2025-07-18,ANA,B787-10,접근중(APR),284,0,접근 중 관제 지시 오인에 의한 고도 편차 발생
+103,2025-07-21,Delta Connection,ERJ-175LR,착륙중(LDG),72,0,하드 랜딩 후 기체 정밀 점검
+104,2025-07-24,Angara Airlines,An-24RV,접근중(APR),48,48,엔진 화재 발생 후 접근 중 주거지역 추락
+105,2025-07-26,American Airlines,B737 MAX 8,순항중(ENR),164,0,항법 시스템 고장으로 인한 회항
+106,2025-07-27,Virgin Australia,B737-8FE,착륙중(LDG),148,0,착륙 후 타이어 펑크로 활주로 폐쇄
+107,2025-07-29,Venezuelan Air Force,Cessna 208B,순항중(ENR),7,7,기계적 결함으로 추정되는 정글 지역 추락
+108,2025-07-30,Delta Air Lines,A330-941,순항중(ENR),272,0,순항 중 윈드스크린 가열 장치 고장
+109,2025-07-30,Rock Jet Solutions,Hawker 850XP,접근중(APR),6,0,하강 중 안개로 인한 접근 복행 시도
+110,2025-08-01,Alaska Air Transit,Cessna 208B,착륙중(LDG),9,0,수상 착륙 시 파도 충격으로 기체 파손
+111,2025-08-05,CSI Aviation Inc,Beech 300,순항중(ENR),4,4,순항 중 연료 누출에 의한 엔진 정지 및 추락
+112,2025-08-07,AMREF,Cessna 560XL,접근중(APR),6,6,구름 속 지형지물을 확인하지 못하고 산 충돌
+113,2025-08-09,Grand Canyon Airlines,DHC-6-300,이륙중(TOF),16,0,이륙 중 승객 불법 도어 조작 시도로 비상 정지
+114,2025-08-11,Rampart Aviation,DHC-6-300,착륙중(LDG),14,0,하드 랜딩 후 앞바퀴 지지대 골절
+115,2025-08-15,Superior Airways,Cessna 208,접근중(APR),8,0,최종 접근 중 가벼운 버드 스트라이크
+116,2025-08-16,Private,Antonov An-2R,순항중(ENR),6,6,엔진 과열 후 공중 폭발 및 추락
+117,2025-08-16,Finnair (NoRRA),ATR 72-212A,접근중(APR),64,0,결빙 방지 장치 고장으로 긴급 하강 착륙
+118,2025-08-20,Thai Airways,A350-941,순항중(ENR),298,0,순항 중 기내식 조리실 단락 소동
+119,2025-08-20,Air France,A320-214,착륙중(LDG),152,0,착륙 가속 역추진 장치 미작동
+120,2025-08-23,World Atlantic Airlines,MD-83,이륙중(TOF),144,0,엔진 연기 유입으로 이륙 중단 및 대피
+121,2025-08-25,SAS Link,ERJ-195LR,접근중(APR),110,0,유압 부족으로 인한 플랩 반작동 착륙
+122,2025-08-25,Amole Air,Cessna 208B,착륙중(LDG),10,0,거친 풀밭 활주로 이탈
+123,2025-08-28,Delta Air Lines,A320-212,착륙중(LDG),148,0,착륙 후 노즈 휠 고정 결함
+124,2025-08-28,United Express,ERJ-175LR,접근중(APR),72,0,낙뢰 조우 후 항법 장치 일부 손실
+125,2025-08-31,Parachutisme,Cessna 208B,이륙중(TOF),14,0,가속 중 엔진 출력 변동 발생
+126,2025-09-02,Speedero LLC,Gulfstream V,순항중(ENR),8,0,연료 관리 시스템 오류로 비상 회항
+127,2025-09-03,Priester Aviation,Gulfstream G150,착륙중(LDG),6,0,활주로 이탈 후 펜스 충격
+128,2025-09-06,Sav Aviation LLC,Cessna 560,접근중(APR),4,0,시정 미확보 상태에서 무리한 접근
+129,2025-09-07,WestJet,B737-8CT,순항중(ENR),158,0,기내 화장실 화재 알람(오작동)에 의한 비상 강하
+130,2025-09-09,Fuerza Aerea Mexicana,CASA C-295M,착륙중(LDG),20,0,타이어 폭발 후 활주로 점유
+131,2025-09-09,Khimavia Ltd,An-2R,이륙중(TOF),2,1,실속에 의한 기수 추락 및 화재
+132,2025-09-12,Southwest Airlines,B737-7H4,착륙중(LDG),134,0,하드 랜딩 후 승무원 부상 보고
+133,2025-09-17,Jem Air Holdings,Cessna 750,순항중(ENR),4,0,오토파일럿 오작동에 의한 급하강
+134,2025-09-18,Stonecrest Capital,Cessna 525C,접근중(APR),3,0,활주로 오버슈트로 인한 이탈
+135,2025-09-20,Far North Freefall,Cessna 208,이륙중(TOF),12,0,가속 중 조종석 창문 파손으로 중단
+136,2025-09-24,"Jet Industries, S.A.",Learjet 55,착륙중(LDG),4,2,접지 후 브레이크 파손 및 방호벽 충돌
+137,2025-10-01,Delta Connection,CRJ-900LR,접근중(APR),74,0,하강 중 조종사 산소 부족 증상 보고
+138,2025-10-01,Delta Connection,CRJ-900LR,착륙중(LDG),74,0,착륙 후 활주로 내 정지 및 기인(Towing) 처리
+139,2025-10-03,Borus Aircompany,An-2P,이륙중(TOF),2,2,이륙 직후 방향 조종 상실 및 지면 충돌
+140,2025-10-12,DHL (EAT Leipzig),A300B4-600,착륙중(LDG),2,0,하드 랜딩으로 인한 동체 하부 구조 손상
+141,2025-10-12,Ryanair,B737 MAX 8,순항중(ENR),182,0,기내 돌발 승객 소란으로 인한 회항
+142,2025-10-16,United Airlines,B737 MAX 8,착륙중(LDG),164,0,착륙 가속 장치 제어 오류 발생
+143,2025-10-16,Aereo Lineas,Hawker 800XP,접근중(APR),3,3,접근 중 통신 두절 및 산악 지형 추락
+144,2025-10-20,ACT Airlines,B747-481,착륙중(LDG),4,2,화물기 착륙 시 꼬리 부분 지면 강타 및 화재
+145,2025-10-24,Brussels Airlines,A319-111,접근중(APR),128,0,접근 중 유압 오일 누출 경보
+146,2025-10-28,Mombasa Air Safari,Cessna 208B,순항중(ENR),11,11,악천후 속 비행 중 공중 분해 추락
+147,2025-11-01,Skymark Airlines,B737-8AL,착륙중(LDG),168,0,활주로 이탈 후 잔디밭 고립
+148,2025-11-04,UPS,MD-11(F),접근중(APR),15,15,화물칸 리튬 배터리 화재로 인한 조종 상실 추락
+149,2025-11-17,AirJet Angola,ERJ-145LR,이륙중(TOF),44,0,이륙 중 엔진 이상 진동으로 중단
+150,2025-11-25,Nari Air,Let L-410UVP,착륙중(LDG),18,3,착륙 중 활주로 옆 배수로 추락 및 전복
+151,2025-12-01,Mirgor,Basler BT-67,이륙중(TOF),2,0,활주로 결빙에 의한 이륙 활주 중 미끄러짐
+152,2025-12-08,Japan Air Commuter,ERJ190,접근중(APR),82,0,접근 중 전자기 장애로 항법 장치 불안정
+153,2025-12-08,Jet2,B737-8MG,착륙중(LDG),174,0,강한 하드 랜딩으로 인한 점검
+154,2025-12-09,AirSprint,Cessna 525B,접근중(APR),4,0,시정 제한 하 접근 중 활주로 조명 오인
+155,2025-12-09,Prime Aviation,EMB-500,착륙중(LDG),3,0,제동 장치 결함에 의한 활주로 끝단 정지
+156,2025-12-09,Russian Air Force,An-22A,순항중(ENR),8,8,순항 중 엔진 4개 중 2개 정지 후 추락
+157,2025-12-15,Jetpro SA,Cessna 650,접근중(APR),10,10,해상 접근 중 고도 착오로 수면 충돌
+158,2025-12-18,GB Aviation Leasing,Cessna 550,순항중(ENR),7,7,공중에서 기계적 결함으로 인한 비상 호출 후 추락
+159,2025-12-22,Japan Airlines (JAL),B787-9,순항중(ENR),242,0,객실 냉방 장치 연기 발생으로 인한 회항
+160,2025-12-23,Harmony Jets Malta,Falcon 50,접근중(APR),8,8,계기 접근 중 고도계 오작동에 의한 지면 충돌
