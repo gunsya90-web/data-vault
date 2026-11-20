@@ -1,0 +1,314 @@
+번호,게재지명 ,논문제목,주저자,국내국외여부,에스씨아이여부(SCI),게재년도
+1,한국에너지공학회 논문집,안전밸브가 장착된 휴대용 부탄캔에 대한 안전성평가 연구,강승규,국내,N,2008
+2,한국가스학회지,RFID/USN 기반 지능형 가스안전관리 서비스를 위한 자율적 분석 연구,강승규,국내,N,2008
+3,유체기계저널 2009.2 게재,압력방출밸브를 장착한 이동식부탄연소기,강승규,국내,N,2008
+4,한국가스학회지,건축물내 일산화탄소 경보기 설치기준에 관한 연구,강승규,국내,N,2008
+5,한국가스학회지(KIGAS),수소충전소 안전성 향상을 위한 버츄얼리얼리티 프로그램의 개발,김은정,국내,N,2008
+6,한국가스학회지,3.2um 중적외선 센서를 이용한 메탄가스누출검지기의 개발,박규태,국내,N,2008
+7,한국가스학회지,Experimental Studies on the Interaction Between a Propagating Flame and Multiple Obstacles in a Rectangular Chamber,안정진,국내,N,2008
+8,한국정보기술응용학회 논문지,튜닝 가능한 자원선택 방법론,오정석,국내,N,2008
+9,한국정보처리학회 논문지,워크로드 성향에 대한 데이터베이스 영향분석,오정석,국내,N,2008
+10,한국가스학회지,U-기반 가스안전관리의 기술 적용을 위한 실증적 연구,오정석,국내,N,2008
+11,한국가스학회지,도시가스 고압배관의 정량적 위험평가 절차에 관한 연구,이경식,국내,N,2008
+12,Journal of Loss Prevention in the Process Industries,Individual risk analysis of high-pressure natural gas pipelines,조영도,국외,Y,2008
+13,한국가스학회지(KIGAS),Propane-DME 혼합비율에 따른 가정용 가스레인지의 열효율 특성에 관한 실험적 연구,황현철,국내,N,2008
+14,유체기계저널,압력방출밸브를장착한이동식부탄연소기,강승규,국내,N,2009
+15,한국에너지공학회,다양한 외부하중에 대한 PE 매설배관의 유한요소 해석,길성희,국내,N,2009
+16,한국기계학회,고분자 전해질 연료전지 유로의 수분배출 특성의 실험 및 해석적 평가,김영규,국내,N,2009
+17,InternationalJournalofHydrogenEnergy,Development of a Web-Based 3D Virtual Reality Program for Hydrogen Station,김은정,국외,Y,2009
+18,Lecture Notes In Computer Science,Selecting the Wireless Communication Methods for Establishing Ubiquitous City-Gas Facilities in Korea,오정석,국외,N,2009
+19,Communications in Computer and Information Science,Design Middleware Platforms for Ubiquitous Smart Service on City Gas Envrionment in Korea,오정석,국외,N,2009
+20,비파괴검사학회지,배관 원거리 진단을 위한 원주방향 배열 유도초음파 집속기술 개발,이동훈,국내,N,2009
+21,한국가스학회지,강재 지붕형 LNG 저장탱크 구조안전성평가,이승림,국내,N,2009
+22,한국가스학회지,LNG 저장탱크 강재지붕의 충격 및 화재에 대한 안전성평가기법 개발,이승림,국내,N,2009
+23,한국수소및신에너지학회,가정용 연료전지 시스템 내부 수소 누출 시 센서 응답 특성에 관한 연구,이정운,국내,N,2009
+24,한국가스학회지,가스의온도 및 습도변화에따른 수소센서응답특성에대한 실험적연구,이정운,국내,N,2009
+25,Computers & Chemical Engineering,Optimalfacilitylayoutundertoxicreleaseinprocessfacilities:Astochasticapproach,이진한,국외,Y,2009
+26,Journal of Loss Prevention in the Process Industries,An approach for risk reduction (methodology) based on optimizing the facility layout and siting in toxic gas release scenarios,이진한,국외,Y,2009
+27,한국가스학회지,공정트러불에 따른 안전장치 선택방법에 관한 연구,정상용,국내,N,2009
+28,Process Safety Progress,Flame groth model for confined gas explosion,조영도,국외,Y,2009
+29,한국비파괴검사학회지,액화천연가스 플랜트 시스템 위험도평가 기술,최송천,국내,N,2009
+30,대한설비공학회지(설비저널),LNG플랜트 시스템 위험도 평가기술 개발,최송천,국내,N,2009
+31,대한기계학회논문집,구형 산소용기 내 표면균열에 대한 수치파괴역학 평가,한상인,국내,N,2009
+32,한국가스학회지,수치해법을 이용한 2단 열교환기 장착 가정용 보일러 연소실의 연소 및 열전달 특성 해석,강승규,국내,N,2010
+33,International Journal of Hydrogen Energy,Development of Korean Hydrogen fueling Station Code through Risk Analysis,김은정,국외,Y,2010
+34,WASET(World Academy Science Engineering Technology),Development of the Gas Safety Management System using an Intelligent Gasmeter with wireless ZigBee Network,박규태,국내,N,2010
+35,Advances in Intelligent and Soft Computing,A Study on Autonomic Decision Method for Smart Gas Environments in Korea,오정석,국외,N,2010
+36,Journal of the Korea Society for Nondestructive KSNT,Analysis of the Propagation Characteristics of Ultrasonic Guided Waves Excited by Single Frequency and Broadband Sources,이동훈,국외,Y,2010
+37,한국비파괴검사학회지,액화천연가스 저장탱크 9% 니켈강 용접부의 방사선투과시험 필름에 나타나는 밴드형상의 지시 해석,이승림,국내,N,2010
+38,International Journal of Hydrogen Energy,Thermal characteristics during hydrogen fueling process of type IV cylinder,이승훈,국외,Y,2010
+39,한국가스학회지,부식결함을 가진 배관의 파손확률 예측을 위한 단순화된 방법,이진한,국내,N,2010
+40,Process Safety Progress,Explosion characteristics of hydrogen-air mixtures in spherical vessel,조영도,국외,Y,2010
+41,한국가스학회지,CNG/HCNG 복합충전소의 안전에 관한 동향분석,강승규,국내,N,2011
+42,Journal of Mechanical Engineering Science,Numerical simulation of non-buoyant pollutants dispersion in a turbulent boundary layer,강승규,국외,Y,2011
+43,Composite Structures,The Effect of Composite Damage on Fatigue Life of the High Pressure Vessel for Natural Gas Vehicles,김영섭,국외,Y,2011
+44,Hydrogen Fuel Cell,Experiment and Simulation of Leaking Hydrogen Jet at Hydrogen Fueling Station in Korea for Safety Marginal Storage Tanks Configuration,김은정,국외,Y,2011
+45,한국가스학회지,도시가스 고압배관의 내부검사(ILI) 이행시기 결정을 위한 비용-편익 분석,류영돈,국내,N,2011
+46,한국가스학회지,도시가스 고압배관의 합리적인 위험감소조치 선정을 위한 비용-편익 분석,류영돈,국내,N,2011
+47,2011 International Conference on Electronics Engineering and Signal Processing,Effectiveness Improvement on the Gas Safety Management by using Smart meters and sensors,박규태,국외,N,2011
+48,2011 International Conference on Mechatronics and Information Technology,A Study on the Effective Gas Safety Management using Smart appliances,박규태,국외,N,2011
+49,한국가스학회지,순간 가스온수기의 사고예방에 관한 연구,여창훈,국내,N,2011
+50,한국화공학회지,탄소나노튜브기반의 고체수소저장시스템에 관한 전산해석,유철희,국내,N,2011
+51,한국가스학회지,Field inspection of phase-array ultrasonic for polyethylene electrofusion joints,길성희,국내,N,2012
+52,한국가스학회지,70MPa Type3수소 복합용기의 상온수압반복 거동에 관한 연구,김영규,국내,N,2012
+53,AEF(Advanced Engineering Forum),A Study on the Effective Gas Safety Management using Smart Appliances,박규태,국외,N,2012
+54,Information(SCI),An Empirical Study on Smart Safety Management Architecture for Gas Facilities in Korea,오정석,국외,Y,2012
+55,한국가스학회 논문지,지능형 실시간 대기확산 시스템에 관한 연구,오정석,국내,N,2012
+56,에너지공학회지,LNG 저장탱크 염해 확산 계수 산출을 위한 실험적 고찰,이승림,국내,N,2012
+57,한국가스학회지,LPG용 압력방출밸브 방출관 설치기준 개선방안,이진한,국내,N,2012
+58,한국가스학회지,온도차 변동에 따른 전자밸브 작동모델 실험적 연구,장갑만,국내,N,2012
+59,한국가스학회지,수소가스 폭발의 물리화학적 특성 연구,조영도,국내,N,2012
+60,한국가스학회지,수소가스사고의 피해범위,조영도,국내,N,2012
+61,한국가스학회지,고압수소가스 벤트스택의 설계에 관한 연구,조영도,국내,N,2012
+62,한국가스학회지,액체수소 사고피해 완화기술에 대한 연구,조영도,국내,N,2012
+63,Corrosion Science and Technology,The Implementation of Risk-Based Inspection for the Refinery Plant,최송천,국내,N,2012
+64,Corrosion Science and Technology,Development of Risk-Based Inspection(RBI) Technology for LNG Plant Based on API RP 581 Code,최송천,국내,N,2012
+65,한국화학공학저널,Surface recession mechanism of carbon fiber reinforced plastic layer by thermal decomposition,이재훈,국내,N,2012
+66,한국가스학회지,CFD를 활용한 수소-천연가스 혼합연료에 대한 피해영향 분석,강승규,국내,N,2013
+67,한국가스학회지,지반 침하를 고려한 도시가스 입상배관의 응력평가,길성희,국내,N,2013
+68,한국가스학회지,Non-Destructive Testing of damaged thermoplastic pipes electrofusion joints using phased array ultrasonic,길성희,국내,N,2013
+69,International Journal of Hydrogen Energy,Simulation of hydrogen leak and explosion for the safety design of hydrogen fueling station in Korea,김은정,국외,Y,2013
+70,한국가스학회지,Type3 복합용기 설계 파열압에 관한 실증연구,김창종,국내,N,2013
+71,한국가스학회지,LNG 탱크 컨테이너의 내부압력 변화 분석 및 실제 홀딩타임 측정,류영돈,국내,N,2013
+72,International Journal of Distributed Sensor Networks,Development of Gas Safety Management System for Smart-Home Services,박규태,국외,Y,2013
+73,2013년 한국화재조사학회회지,LP가스 저장탱크 개방검사에 따른 예방대책에 관한 연구,여창훈,국내,N,2013
+74,한국가스학회지,실시간 데이터를 이용한 지역기반 위험분석 시스템에 관한 연구,오정석,국내,N,2013
+75,LNEE,The System of Stress Estimation for the Exposed Gas Pipeline using The Wireless Tilt Sensor,오정석,국외,N,2013
+76,ASTL,Identifying Workloads in Mixed Applications,오정석,국외,N,2013
+77,Information(SCI),Extended Spherical Self-Organizing Maps for an Intelligent Management System to Automatically Detect Anomaly Conditions,오정석,국외,Y,2013
+78,Information(SCI),An Analysis Intelligent Methodology for Finding Gas Leak Location,오정석,국외,Y,2013
+79,한국화학공학저널,Determination of kinetic parameters during the thermal decomposition of epoxy/carbon fiber composite material,이재훈,국내,N,2013
+80,한국연소학회지,이동식 부탄 연소기의 안전기준 개정을 위한 기초 연구,김영구,국내,N,2014
+81,한국가스학회,외면부식 직접평가법 개발 및 국내 도입 연구,류영돈,국내,N,2014
+82,한국가스학회지,방폭형 적외선 가연성가스 누출검지기 개발 및 정확도 향상 연구,박규태,국내,N,2014
+83,위험물학회지,독성가스 누출에 대한 종합 안전관리 시스템,송보희,국내,N,2014
+84,Advanced Science and Technology Letter,A Design of Risk Analysis System Based on Zone in Real-Time Environment,오정석,국외,N,2014
+85,Information,An Efficient Method for Gas Safety Monitoring using Smart Devices,오정석,국외,N,2014
+86,Advanced Scinece Technology Letters,Developing Dispersion System with Detecting  Autonomic Leak Detection,오정석,국외,N,2014
+87,Journal of Loss Prevention in the Process Industries,An approach to estimating the individual risk for toxic-gas releases using the load-resistance model,이진한,국외,Y,2014
+88,한국가스학회,LPG 재충전 소형 용기의 내압성능에 관한 실험적 연구,장갑만,국내,N,2014
+89,한국에너지공학회,소형 압력 용기의 변형 및 파열 경향에 대한 연구,장갑만,국내,N,2014
+90,한국가스학회,고무 씰링 재료에 대한 CO2 침지 영향에 관한 고찰,장갑만,국내,N,2014
+91,기계가공학회,풍력터빈용 고속단 헬리컬 기어의 치형 최적화에 관한 연구,조성민,국내,N,2014
+92,IJPEM,Temperature of Air Pocket in Type3 Composite Vessel during Ambient Hydraulic Cycling Test,조성민,국외,Y,2014
+93,국제정밀공학및제조저널(Int J Prec Eng Manuf),Temperature of air pocket in Type3 composite vessel during ambient hydraulic cycling test,김광석,국외,N,2014
+94,한국위험물학회지,LNG 저장탱크 외조 콘크리트의 탄산화 및 염해 평가,김정훈,국내,N,2015
+95,한국가스학회지,고체기준전극 및 원격전위측정 시스템 개발에 관한 연구,류영돈,국내,N,2015
+96,IJECECE,A Smart Monitoring System for Preventing Gas Risks in Indoor,박규태,국외,N,2015
+97,에너지공학회,적외선 가스센서를 이용한 가연성 가스검지기의 소프트웨어 구현 및 평가,박규태,국내,N,2015
+98,The Asian International Journal of Life Sciences,Safety monitoring system design for LPG supply facilities,오정석,국외,Y,2015
+99,Advanced Science and Technology Letters,A Study on Evaluating the Suitability of Machine Learning for Safety of Enhancing Safety of Gas Facilities,오정석,국외,N,2015
+100,Advanced Science and Technology Letters,Devising Total Analysis Algorithm for Managing Safety LPG Facilities,오정석,국외,N,2015
+101,한국가스학회지,국내 수소타운 내 0.1MPa 이하 저압 수소 사용시설의 안전관리 항목 분석,이덕권,국내,N,2015
+102,한국가스학회지,Separable Monte Carlo 방법을 적용한 부식배관 신뢰도평가,이진한,국내,N,2015
+103,한국가스학회지,CO2 임시 저장 탱크에서의 물리적 폭발에 따른 피해영향 고찰,장갑만,국내,N,2015
+104,한국가스학회지,소형 프로판 용기의 화염 노출에 대한 안전성 연구,장갑만,국내,N,2015
+105,한국가스학회지,액팽창을 고려한 프로판용기의 내압 해소방안에 대한 연구,장갑만,국내,N,2015
+106,기계공학회,상온 수압반복시험 시 Type 3 복합재용기 내 공기층의 온도변화,조성민,국내,N,2015
+107,한국가스학회지,연료용 혼합가스 조성에 따른 탄화수소 이슬점 예측,최슬기,국내,N,2015
+108,한국화학공학저널,A conical shape-evolution model for the control of sapphire crystal growth in Kyropoulos (KY) method,김광석,국내,N,2015
+109,유럽의약과학저널(European J Pharm Sci),Modelling of dissolving microneedles for transdermal drug delivery: Theoretical and experimental aspects,김광석,국외,N,2015
+110,한국에너지공학회지,폴리에틸렌 배관 버트융착부 열용융거리 측정에 대한 연구,길성희,국내,N,2016
+111,한국가스학회지,LPG 충전소 유흥공간의 태양광발전 설비 설치 유효성,김정환,국내,N,2016
+112,Engineering Fracture Mechanics,Probabilistic fatigue integrity assessment in multiple crack growth analysis associated with equivalent initial flaw and material variability,김정훈,국외,Y,2016
+113,한국수소및신에너지학회지,수소타운 정압기실 내 수소 누출 특성 연구,남태호,국내,N,2016
+114,한국가스학회지,도시가스 매설배관 보수기준 개발에 관한 연구,류영돈,국내,N,2016
+115,한국가스학회지,전압강하를 고려한 전기방식 기준 개정에 관한 연구,류영돈,국내,N,2016
+116,한국가스학회지,외면부식직접평가 장비 개발 및 실증 시험에 관한 연구,류영돈,국내,N,2016
+117,한국가스학회지,차량을 이용한 원격전위 측정방법 개발에 관한 연구,류영돈,국내,N,2016
+118,한국에너지공학회,적외선 가연성 가스검지기의 농도 산출 알고리즘의 설계 및 구현,박규태,국내,N,2016
+119,International Journal of Science and Engineering Investigations,Development of Board for Testing IR Combustible Gas Sensors and Their Performance Test,박규태,국외,N,2016
+120,"International Journal of Electrical, Computer, Energetic, Electronic and Communication Engineering",Research on Development and Accuracy Improvement of an Explosion Proof Combustible Gas Leak Detector Using an IR Sensor,박규태,국외,N,2016
+121,International Journal of Trend in Research and Development,Development of a Remote System for Testing performance of Combustible Gas Detectors,박규태,국외,N,2016
+122,International Journal of Trend in Research and Development,Research on the Input and Output Characteristic and Calibration Function of Infrared Combustible Gas Sensors,박규태,국외,N,2016
+123,International Journal of Trend in Research and Development,A Study on the Gas Sensor of AlGaN/GaN Schottky Diode with Surface Defect,박규태,국외,N,2016
+124,"International Journal of Electrical, Computer, Energetic, Electronic and Communication Engineering",Development and Evaluation of a Portable Ammonia Gas Detector,박규태,국외,N,2016
+125,International Journal of Safety and Security Engineering,STUDY ON THE SAFETY MANAGEMENT OF TOXIC GAS CYLINDER DISTRIBUTION USING RFID,송보희,국외,N,2016
+126,Advanced Science and Technology Letters,Designing Accident Possibility Prediction Model for Accident Prevention,오정석,국외,N,2016
+127,Advanced Science and Technology Letters,A Study on Enhancing Safety on LPG Facilities,오정석,국외,N,2016
+128,International Journal of Trend in Reasearch and Development,Developing Pier collision Monitoring System,오정석,국외,N,2016
+129,International Journal of Trend in Reasearch and Development,Designing Industry Smart Service for Multi Energy Filling Station,오정석,국외,N,2016
+130,한국위성정보통신학회논문지,몬테카를로 기반의 가상현실 블루투스 기기와 무선랜 사이의 상호 공존 연구,유철희,국내,N,2016
+131,한국가스학회지,이동형 LP가스 사용시설의 안전관리 방안,이덕권,국내,N,2016
+132,한국가스학회지,야영장 내 액화석유가스 사용실태 및 위험요소 분석,이덕권,국내,N,2016
+133,한국가스학회지,단열된 배관의 유도초음파 최적 발생조건에 관한 연구,이동훈,국내,N,2016
+134,한국가스학회지,가스전의 추출속도를 고려한 C3MR 공정의 동력기 선택전략,이선규,국내,N,2016
+135,한국수소및신에너지학회지,고분자전해질 연료전지 연료극의 일산화탄소 및 황화수소 농도에 따른 불순물 영향에 관한 연구,이은경,국내,N,2016
+136,한국위험물학회지,건물용 연료전지 시스템 복합배기구조 적용 안전기준 분석,이정운,국내,N,2016
+137,한국가스학회지,연료가스 배관용 탄소강관의 잔존강도에 대한 연구,임상식,국내,N,2016
+138,한국가스학회지,토양특성 및 전기방식에 따른 연료가스용 강관의 부식 차이에 관한 연구,임상식,국내,N,2016
+139,한국가스학회지,호흡용 고압용기 파열 피해 영향 분석에 따른 안전충전함 개발,장갑만,국내,N,2016
+140,International Journal of Precision Engineering and Maufacturing,A study on cycling Life and Failure Mode of Type3 Cylinder treated with Autofrettage Pressure,조성민,국외,Y,2016
+141,유체기계학회지,공기호흡기용  Type3 용기의 자긴압력과 수명에 관한 연구,조성민,국내,N,2016
+142,한국가스학회지,대용량 알루미늄 라이너의 성형을 위한 역 드로잉 공정 해석 및 실험,조성민,국내,N,2016
+143,한국연소학회지,이동식 부탄연소기의 안전성에 관한 실험적 연구,최슬기,국내,N,2016
+144,국제정밀공학및제조저널(Int J Prec Eng Manuf),A study on cycling life and failure mode of type3 cylinder treated with autofrettage pressure,김광석,국외,N,2016
+145,한국수소및신에너지학회지,알카라인 수전해 시스템 성능 특성 및 안전에 관한 연구,이정운,국내,N,2017
+146,한국수소및신에너지학회지,건물용 연료전지 시스템 연료승압 블로워 안전성능 평가에 관한 연구,이정운,국내,N,2017
+147,한국위험물학회,발전용 연료전지 안전관리 현황 분석,이은경,국내,N,2017
+148,한국가스학회,가정용 연료전지 전력변환장치 전자파적합성 성능 평가 연구,남태호,국내,N,2017
+149,한국가스학회,SOFC 스택 안전성능 평가 시스템 제작을 위한 평가항목 도출에 관한 연구,남태호,국내,N,2017
+150,한국가스학회,캠핑용 차량 내 LPG 사용시설 안전관리 방안에 관한 연구,남태호,국내,N,2017
+151,기계가공학회,CNG용 Type 4 하이브리드 섬유 복합재 용기 개발에 대한 연구,조성민,국내,N,2017
+152,기계가공학회,Type 4 복합재 용기의 돔 형상에 따른 파열형태에 관한 연구,조성민,국내,N,2017
+153,한국수소및신에너지학회지,위험성평가를 통한 패키지형 수소충전소 안전성 향상에 관한 연구,강승규,국내,N,2017
+154,한국수소및신에너지학회지,국내 LPG 충전소 내 수소 융복합충전소 구축 가능 부지 연구,강승규,국내,N,2017
+155,한국에너지학회지,수소-천연가스 혼합연료 차량연료 공급시스템 수소영향 평가,강승규,국내,N,2017
+156,한국에너지학회지,국내외 충전소 사고 현황분석 및 가스누출 피해거리 평가,강승규,국내,N,2017
+157,IJMAIMME,Development of a Remote Testing System for Performance of Gas Leakage Detectors,박규태,국외,N,2017
+158,IJEIR,Development of a Test Board for a Non-Dispersive Infrared Gas Sensor,박규태,국외,N,2017
+159,IMJST,Development of a Test Board for Measuring and Analyzing Characteristics of 5 Gas Sensors,박규태,국외,N,2017
+160,IJUNESST,A Study on Developing IGAS for Analyzing the Status of Gas Facility,오정석,국외,N,2017
+161,ASTL,Development of Wireless Module Test Equipment for Gas Safety Devices Performance,오동석,국외,N,2017
+162,IJCA,Developing Data Logger with Industrial IoT for Gas Station,오정석,국외,N,2017
+163,IJCA,A Study on Natural Gas Dispersion Modeling for Gas Safety Platform Development,이우귀연,국외,N,2017
+164,한국가스학회지,염소의 토양 침적특성에 미치는 토양 내 유기물 함량의 영향,송보희,국내,N,2017
+165,한국가스학회지,LPG 누출 및 가스센서 3D Mapping을 통한 가스유동현상 분석,김정환,국내,N,2017
+166,한국가스학회지,고압가스배관의 기계적 충격(타공사)에 대한 실험적 연구,김정환,국내,N,2017
+167,한국가스학회지,안전밸브 성능점검 자료 분석을 통한 운전 중 점검방법 도입의 필요성 고찰,김정환,국내,N,2017
+168,International Journal of Damage Mechanics,Development of Fatigue Prediction Model for Steel Bridges Based on characteristics of Variable Stress Spectra,김정훈,국외,Y,2017
+169,한국가스학회지,피로 및 내구성을 고려한 LNG 저장탱크의 수명평가 프로그램 개발,김정훈,국내,N,2017
+170,한국가스학회지,반발경도법을 이용한 LNG 저장탱크 콘크리트의 압축강도 추정식 개발,김정훈,국내,N,2017
+171,한국가스학회지,LNG 외조 저장탱크의 구조적 특성을 고려한 상태평가 기준 개발,김정훈,국내,N,2017
+172,한국가스학회지,과대불탄 사용 시 이동식부탄연소기 구조에 따른 열영향 연구,최슬기,국내,N,2017
+173,한국연소학회지,휴대용 부탄 가스 레인지의 안전성에 관한 실험적 연구,최슬기,국내,N,2017
+174,한국가스학회지,LP가스 배관의 누출로부터 점화가능 거리에 관한 연구,류영돈,국내,N,2017
+175,springe,A Study on Deriving and Simulating Pre-risk on Complex Gas Facilities for Preventing Accidents,오정석,국외,Y,2018
+176,Journal of Power Sources,Performance enhancement of molten carbonate-based direct carbon fuel cell (MC-DCFC) via adding mixed ionic-electronic conductors into Ni anode catalyst layer,이은경,국외,Y,2018
+177,IJPEM(국제정밀가공학회),Effect of Dome Curvature on Failure Mode of Type4 Composite Pressure Vessel,조성민,국외,Y,2018
+178,한국수소및신에너지학회,고분자 전해질 연료전지의 무인기 적용을 위한 진동 영향 연구,강준영,국내,N,2018
+179,한국수소및신에너지학회,건물용 연료전지 복합배기구조 안전실증평가,이은경,국내,N,2018
+180,한국가스학회,병렬 연결된 계통연계형 연료전지 전력변환장치의 단독운전방지 평가연구,오건우,국내,N,2018
+181,한국가스학회,소형 가스엔진 열병합발전 시스템의 안전관리 방안에 관한 연구,김소현,국내,N,2018
+182,한국가스학회,5Nm3/hr급 알카라인 수전해 시스템의 안전기준분석 및 안전성능평가에 관한 연구,김지혜,국내,N,2018
+183,한국에너지학회,건물용 SOFC(고체산화물연료전지) 단위스택 안전성능평가 연구,박태성,국내,N,2018
+184,한국위험물학회,건물용 연료전지 및 보일러 복합설치 안전성 연구,김민우,국내,N,2018
+185,한국기계가공학회,PET 라이너를 적용한 공기호흡기용 복합재료 압력용기 개발,조성민,국내,N,2018
+186,한국기계가공학회,전자제품 쿨링 유닛용 초소형 타입3 복합재료 압력용기 개발,조성민,국내,N,2018
+187,한국기계가공학회,수소스테이션용 유압압축기 개발,조성민,국내,N,2018
+188,IJFRCSCE,Development of Components of Analog and Digital Gauses for Training Regulators Safety Check using Virtual Reality,박규태,국외,N,2018
+189,IJFRCSCE,Calculation of Response Characteristics of Various Hydrocarbon Gas Sensors,박규태,국외,N,2018
+190,IJFRCSCE,Estimation of Gas Concentration using Energy Absorption of Non-dispersive Infrared Gas Sensors with three optical paths,박규태,국외,N,2018
+191,IJFRCSCE,Analysis on Response Characteristics of Semiconductor Methane Gas Sensor by Ultrasonic Process,박규태,국외,N,2018
+192,advances in computer science,A Practical Study on Data Logger for Gas Industry,오정석,국외,N,2018
+193,한국가스학회,LNG 저장탱크 구조물의 종합적 상태평가기준 개발,김정훈,국내,N,2018
+194,한국가스학회,에너지 사용 밀집지역에서의 가스 관련 화재예방 기법 개발,김정훈,국내,N,2018
+195,한국가스학회,국내 천연가스배관 유지관리를 위한 목표신뢰도 적용사례,이진한,국내,N,2018
+196,한국가스학회,기상 데이터를 활용한 가스사고위험 예보에 관한 연구,오정석,국내,N,2018
+197,한국가스학회,무선가스안전기기를 위한 성능시험 방안에 관한 연구,오정석,국내,N,2018
+198,한국가스학회,LPG 충전소 내 설치된 방호벽의 효용성 평가,이진한,국내,N,2018
+199,한국가스학회,딥러닝(CNN) 기반 저해상도 IR이미지 분석을 통한 작업자 인식,이우귀연,국내,N,2018
+200,한국가스학회,국내 LPG 집단공급시설 환경에 적합한 매몰배관용 과류차단밸브 성능시험 절차 개발,이우귀연,국내,N,2018
+201,대한기계학회,잔류응력을 고려한 실린더 블록의 내구성 평가,강병익,국내,N,2018
+202,한국가스학회,노출배관의 세부 기술기준 연구,강병익,국내,N,2018
+203,한국가스학회,FMEA를 이용한 수소 국제표준 제정의 방법론,강병익,국내,N,2018
+204,한국가스학회,지하매설 고압가스배관의 수명예측을 위한 인위결함 배관의 파열실험,김정환,국내,N,2018
+205,한국가스학회,가연성가스 수송배관에 대한 목표 신뢰도 수준 설정에 관한 연구,이진한,국내,N,2018
+206,한국가스학회,신뢰도평가 기반 도시가스배관 종합관리시스템 구축 연구,오동석,국내,N,2018
+207,한국가스학회,연료가스 매몰배관용 과류차단밸브와 성능시험 장치 개발,이우귀연,국내,N,2018
+208,한국가스학회,수소연료전지 자동차 압력 용기용 전자밸브의 온도 특성에 관한 연구,이효렬,국내,N,2018
+209,한국가스학회,이동식 LNG 야드트랙터 충전 기준 개발 연구,류영돈,국내,N,2018
+230,IJCA,A Study on Deriving and Simulating Pre-risk on Complex Gas Facilities for Preventing Accidents,오정석,국외,N,2019
+232,한국기계가공학회,A Study on the Durability Evaluation Method of Handring Structure using Hand Calculation and Simulation,조성민,국내,N,2019
+233,수소 및 신에너지학회,CFD툴을 활용한 패키지형 수소충전시스템의 안전성향상연구,강승규,국내,N,2019
+215,한국기계가공학회,Developmnt of a Type 4 Composite Cylinder for Seif-contained Breathing Apparatus,조성민,국내,N,2019
+227,한국가스학회지,HTML5 웹 기반 가연성 물질 누출 피해영향평가 시스템 개발,이우귀연,국내,N,2019
+231,한국가스학회,KGS GC101을 통한 가스시설 폭발위험장소의 설정,김정환,국내,N,2019
+216,한국에너지공학회,LPG 복합 이동식 수소충전소 안전성 분석에 관한 연구,김필종,국내,N,2019
+221,한국가스학회,LPG 소형저장탱크의 외부요인에 대한 안전대책 방안 연구,"김경식,김광석,이재훈,김홍철",국내,N,2019
+217,한국에너지공학회,LPG-수소복합충전소 운영데이터 모니터링 분석,김필종,국내,N,2019
+212,한국가스학회,누출 종류에 따른 LP가스용기 누출량 실증실험,이민경,국내,N,2019
+226,한국가스학회지,누출점검용 스마트가스미터의 성능시험 가이드라인 개발 연구,김민준,국내,N,2019
+228,한국가스학회지,도시가스 누출에 따른 스마트 홈 안전 플랫폼 프로그램 구축,지현민,국내,N,2019
+214,한국가스학회,도심지 하천배관의 위험성 평가에 관한 연구,박우일,국내,N,2019
+210,한국가스학회,복합재 용기의 손상에 따른 ACM기법 적용 연구,김정환,국내,N,2019
+223,한국가스학회,산소농도 센서 매트릭스를 활용한 광역 가스확산 측정법,"이건우, 김광석,이재훈,김홍철",국내,N,2019
+225,한국가스학회지,산업용 밸브의 위험요소 분석을 통한 IoT 기반 안전관리 방안 개발,김정훈,국내,N,2019
+213,한국가스학회,산화물 반도체식 가스센서의 입출력 고차 캘리브레이션 방정식 도출,박규태,국내,N,2019
+220,한국가스학회,수소 제트화염 실증시험을 통한 과학적 안전거리 도출,"허승건,김광석,이재훈,김홍철",국내,N,2019
+218,한국수소및신에너지학회,수소복합스테이션 실증기반 운영데이터 모니터링 분석 연구,김동환,국내,N,2019
+224,한국안전학회,실규모 수소분출화염 데이터 분석을 통한 수소충전소 화재위험성 평가,김광석,국내,N,2019
+219,대한기계학회,액체수소 플랜트의 수소도시 적용모델,"이재훈, 김광석",국내,N,2019
+229,한국화학공학회지,지상 고압 천연가스 배관의 최소 이격거리 기준에 관한 연구,이진한,국내,N,2019
+211,한국가스학회,표준유량계법을 활용한 수소 충전소 계량 정확도 평가,한원국,국내,N,2019
+222,한국가스학회,혼합가스의 초고압 조건 폭발특성 측정장비 설계를 위한기준분석 및 고찰,"정한빈,김광석,이재훈,김홍철",국내,N,2019
+234,한국가스학회지,실시간 위험지도 시스템을 위한 위험분석 기법 개발,오정석,국내,N,2020
+235,한국가스학회,벌크로리를 통한 국내 LPG 공급시스템 실태조사에 관한 연구,이화영,국내,N,2020
+236,한국가스학회,수소-CNG 복합충전소 정량적 위험성평가에 관한 연구,강승규,국내,N,2020
+237,한국에너지학회 학술지,지반침하를 고려한 롱엘보 타입 PE이음관 안전성평가,이민경,국내,N,2020
+238,International Journal on Recent Technology and Engineering,Analysis on Sensitivity of Semiconductor Methane Gas Sensors by Ultrasonic Process,최슬기 / 권대환,국내,N,2020
+239,한국가스학회 학술지,건물 화재 시 LPG소형저장탱크 보호용 화재 저항 재료 성능 실증,김승환,국내,N,2020
+240,INTERNATIONAL JOURNAL OF SCIENTIFIC&TECHNOLOGY RESEARCH,Validation Test and Analysis for Resistibility of Firewall Materials to Protect Small LPG Storage Tanks,박규태,국외,N,2020
+241,한국수소및신에너지학회,수소전기차용 EPDM 고무의 충전재 입자 크기별 고압수소 환경에서의 거동 연구,김기정(조성민),국내,N,2020
+242,한국기계가공학회,수소트럭 수소저장시스템에 대한 구조안전성 및 기밀성능평가,성혜진(조성민),국내,N,2020
+243,한국기계가공학회,수소충전소용 유압식 압축기 안전성 시험에 관한 연구,김다은(조성민),국내,N,2020
+244,한국수소및신에너지학회,정량적 위험성평가 프로그램(Hy-KoRAM)을 이용한 제조식 수소충전소 피해범위 및 영향분석,김혜림,국내,N,2020
+245,한국가스학회지,IoT 기반 산업용 밸브 안전관리 시스템 구성장치의 성능검증 방안 개발,김재옥,국내,N,2020
+246,international Journal of Hydrogen Energy,Application of PET as a non-metallic liner for the 6.8 L type-4 cylinder based on hydrogen cycling test,조성민,국외,N,2021
+247,한국가스학회,수소충전소 잠재적 위험에 대한 안전성 해석,강승규(박우일),국내,N,2021
+248,한국가스학회,수소충전소 튜브트레일러 누출에 따른 위험성평가,강승규(박우일),국내,N,2021
+249,한국수소및신에너지학회,무인기용 연료전지 시스템 안전 기준 도출을 위한 기울기 안전 성능 평가,최재욱,국내,N,2021
+250,한국가스학회,소형 가스엔진 열병합발전 시스템 안전기준 개발,권준엽,국내,N,2021
+251,한국가스학회지,유한요소 해석을 이용한 자동차 압력용기 밸브용 과류 방지 장치의 설계,이효렬,국내,N,2021
+252,한국가스학회지,오코인코더를 이용한 작업 데이터 정상 여부 판단 알고리즘,오정석/김동현,국내,N,2021
+253,한국가스학회지,무선 가스 차잔당치 동작 신뢰성 시험에 따른 현장 실증 결과 분석,이경식/황도연,국내,N,2021
+254,한국가스학회지,드론 영상 활용 시설물 이동 인식 정확도 분석 및 활용 서비스 구현,오아라,국내,N,2021
+255,International Journal of Hydrogen Energy,Improved safety by corssanalyzing quantitative risk assessment of hydrogen refueling stations,최슬기 / 권대환,국외,Y,2021
+256,에너지공학,HyRAM 3.0을 이용한 수소 충전소 정량적 위험성 평가 분석에 관한 연구,최슬기/임재용,국내,N,2021
+257,에너지공학,Phast/Safeti 프로그램을 활용한 PTS(Pipe to Ship)방식 LNG 벙커링 시설의 정량적 위험성 평가,최영주/임정석,국내,N,2021
+258,에너지공학,국내 LNG 충전소 특정설비 성능평가 항목·내용 도출 및 타당성 검토,최영주/봉선종,국내,N,2021
+259,한국가스학회지,이동식 LNG 충전소 정량적 위험성 평가,최영주/전은경,국내,N,2021
+260,한국가스학회지,반타원형 균열을 가정한 파괴 및 피로역학에 의한 수소 압력용기의 예상 수명 계산과 두께와 내경이 미치는 영향분석,김정환,국내,N,2021
+261,대한기계학회지,수소부품 안전성 평가를 위한 극저온 챔버용 열교환기 성능해석,전호병(주저자 : 이하은),국내,N,2022
+262,한국에너지학회지,수소전기차용 타입 IV 용기 라이너의 수소 투과성에 관한 실험적 연구,전호병(주저자 : 김완진),국내,N,2022
+263,International Journal of Hydrogen Energy,Review of hydrogen infrastructure : The current status and roll-out strategy,조성민(주저자 : 김창종),국외,Y,2022
+264,한국가스학회지,스마트 가스 계량기 압력 데이터 기반 누출 판단 기법 개발,김정훈,국내,N,2023
+265,한국위험물학회,High-Mn 적용 액화수소 저장탱크 안전성 평가 방법 연구,이동현,국내,N,2023
+266,한국위험물학회,다차종 동시 수소충전시스템의 정량적 위험성 분석에 관한 연구,김부승,국내,N,2023
+267,한국위험물학회,액화수소 충전소 정량적 위험성 평가에 관한 연구,유은결,국내,N,2023
+268,한국위험물학회,액화수소 누출시험 최신 기술 동향 및 실증시험 기본설계,김정민,국내,N,2023
+269,한국산업정보학회,수소기술 표준화 현황 및 전망,강승규,국내,N,2023
+270,한국가스학회,수소충전 시스템에서의 수소 누출에 따른 안전 영향 분석에 관한 연구,김부승,국내,N,2023
+271,한국가스학회,액화수소 충전소 위험성평가에 관한 연구,유은결,국내,N,2023
+272,한국가스학회,액화수소 누출시험에 대한 최신 기술 동향,김정민,국내,N,2023
+273,한국가스학회,수소 전주기 안전관리를 위한 국제협력 현황 및 분석,한주연,국내,N,2023
+274,한국가스학회,수소기술 표준화 기반구축을 위한 국제 정책 동향,조윤진,국내,N,2023
+275,수소 및 신에너지학회,수소기술 국제표준화 동향 및 국제표준 제안현황,강승규/이경식,국내,N,2023
+276,수소 및 신에너지학회,액화수소 핵심부품 성능검사기술 개발 연구,조충희,국내,N,2023
+277,수소 및 신에너지학회,도시가스 수소혼입 가스기기 평가기술 표준 동향,이동현,국내,N,2023
+278,수소 및 신에너지학회,액화수소 안전기준현황 및 안전거리 산출 방법,강승규/이경식,국내,N,2023
+279,한국가스학회지,반타원형 균열을 가정한 파괴 및 피로역학에 의한 수소 압력용기의 예상 수명 계산과 두께와 내경이 미치는 영향분석,김정환,국내,N,2021
+280,한국가스학회,수소충전소 계량오차 검증 설비 설치를 위한 위험성 분석 사례 연구,이화영,국내,N,2022
+281,한국수소및신에너지학회,수소충전소 계량 정확도 향상을 위한 거래량 산출 모델 연구,이화영/최진영,국내,N,2022
+282,한국공업화학회,Diffusion Range and Pool Formation in the Leakge of Liquid Hydrogen Storage Tank using CFD Tool,김정환/김수현,국내,Y,2022
+283,한국가스학회,디스크시험 및 수소처리 인장시험에 의한 수소배관용 고질소 스테인리스강의 내수소취성 평가 연구,이민경,국내,N,2022
+284,한국가스학회,스퀴즈오프 작업에 따른 PE배관의 손상평가 연구,서호성,국내,N,2023
+285,수소 및 신에너지학회 논문집,무인비행체용 연료전지 시스템 위험요소 분석을 통한 안전기준 개발 연구,김태헌,국내,N,2023
+286,한국가스학회,ISO 20816  기반 회전기기 진동분석 자동화 알고리즘 개발,"이재웅, 이우귀연, 오정석",국내,N,2024
+287,한국가스학회,수소충전소 방호벽 안전성 검증을 위한 TNT 폭발실증 및 전산유동 해석,"양윤영,조재근",국내,N,2023
+288,한국가스학회,정량적 위험성평가를 통한 액화수소충전소 안전성 고찰,박우일/유철희,국내,N,2023
+289,한국가스학회,수소저장용기의 화재폭발에 대한 폭발 과압 측정,조재근,국내,N,2023
+290,springer,Thermal radiation attenuation performance of fine water spray using twin-fluid nozzles with multiple holes,조재근,국외,Y,2023
+291,한국방호시설학회,수소공기 혼합가스 증기운 폭발에서의 방호벽 효과와 폭발과압에 대한 실험적 분석,김대현,국내,N,2024
+292,한국수소및신에너지학회,액화수소 인수기지 안전 기술 및 기준개발 핵심과제 도출 방안,강승규,국내,N,2024
+293,한국수소및신에너지학회,수소연료전지용 산업기계 기술 동향 조사 연구 ,김민아,국내,N,2024
+294,한국수소및신에너지학회,액화수소 인수기지 안전 기술 및 기준 개발 사업 기획,김현우,국내,N,2024
+295,한국수소및신에너지학회,수소전기차 다차종 동시충전을 위한 광역수소충전소 핵심기술 개발,김보명,국내,N,2024
+296,한국수소및신에너지학회,수소연료전지 건설기계 수소충전소 안전관리 및 정량적 위험성평가 연구,김승환,국내,N,2024
+297,한국수소및신에너지학회,정량적 위험성 평가 기법에 따른 액화수소 충전소 안전영향평가 비교 분석,유은결,국내,N,2024
+298,한국수소및신에너지학회,대형 수소상용차 충전시간 단축을 위한 멀티포트 충전기술 개발,장재영,국내,N,2024
+299,한국가스학회,액화수소 인수기지 안전 기준 개발,강승규,국내,N,2024
+300,한국가스학회,수소연료전지 건설 및 산업기계 충전프로토콜 안전성 분석 결과,이한주,국내,N,2024
+301,한국가스학회,액화수소 충전소 구축 연계 안전성평가/실증 및 안전기준 개발,김민아,국내,N,2024
+302,한국가스학회,수소충전소 내 누출 시 점화 지점 등가비에 따른 폭발 과압 비교 연구,김부승,국내,N,2024
+303,한국가스학회,초저온 수소 제트 누출 실증 실험을 위한 냉각 매체와 기체 수소 에너지 밸런스 계산,김정민,국내,N,2024
+304,한국가스학회,액화수소충전소 모니터링 시스템 개발,조진영,국내,N,2024
+305,한국신재생에너지학회,완화장치 설치 여부에 따른 액화수소 충전소 정량적 위험성 평가,유은결,국내,N,2024
+306,한국신재생에너지학회,수소충전소 멀티포트 충전기술 개발에 관한 연구,장재영,국내,N,2024
+307,한국가스학회,대형 수소상용차 충전시간 단축을 위한 멀티포트 충전기술 개발,김보명,국내,N,2024
+308,한국위험물학회,액화수소 핵심부품 안전관리 방안,강승규,국내,N,2024
+309,한국위험물학회,도시가스 배관망 수소혼입 핵심부품 비금속재료 적합성 확인을 위한 평가방법과 통합 연구시설장비 개발,김승환,국내,N,2024
+310,한국위험물학회,기계실 방호문 설치에 따른 튜브 트레일러 수소 누출 사고 영향 분석 ,김부승,국내,N,2024
+311,한국위험물학회,초저온 기체 수소 제트 누출 실증 실험을 위한 HyRAM+5.0을 활용한 기체 수소 제트 확산성 및 복사열 고찰 ,김정민,국내,N,2024
+312,한국위험물학회,멀티포트 기술개발 관련 수소충전소 안전기준 · SAE J2601 기준 분석,장재영,국내,N,2024
+313,한국위험물학회,비금속 재료 수소침투 국내외 연구동향,정현선,국내,N,2024
