@@ -1,0 +1,59 @@
+구분,주제별통계,세부명,웹주소
+대구기본통계,토지 및 기후,행정구역,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_A10002&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_A&conn_path=I4
+대구기본통계,토지 및 기후,토지지목별현황,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_A40001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_A&conn_path=I4
+대구기본통계,토지 및 기후,일기일수,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_A50001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_A&conn_path=I4
+대구기본통계,토지 및 기후,기상개황,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_A60001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_A&conn_path=I4
+대구기본통계,토지 및 기후,강수량,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_A70001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_A&conn_path=I4
+대구기본통계,인구,구군/5세별 외국인등록 인구,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_203N100006&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_B203_05&conn_path=I4
+대구기본통계,인구,인구추이(등록인구추이),http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_B30001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_B&conn_path=I4
+대구기본통계,노동,교육정도별 취업자,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_C21001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_C2&conn_path=I4
+대구기본통계,노동,노동조합,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_C32000&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_C3&conn_path=I4
+대구기본통계,노동,경제활동인구 총괄,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_C10002&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_C_C1&conn_path=I4
+대구기본통계,사업체,사업체 총괄,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_D40002&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_D&conn_path=I4
+대구기본통계,농림수산업,농가 및 농가인구,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_E11001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_E1&conn_path=I4
+대구기본통계,농림수산업,가축사육,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_E21001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_E2&conn_path=I4
+대구기본통계,농림수산업,조림,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_E35001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_E3&conn_path=I4
+대구기본통계,광공업,광업 및 제조업(10인 이상),http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_F10001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_F&conn_path=I4
+대구기본통계,전기.가스.수도,용도별 전력사용량,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_G12001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_G1&conn_path=I4
+대구기본통계,전기.가스.수도,상수도 보급현황,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_G31001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_G3&conn_path=I4
+대구기본통계,전기.가스.수도,가스공급량,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_G20001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_G_G2&conn_path=I4
+대구기본통계,유통.금융.물가.무역,농수산물 도매시장별 유통량,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_H12001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_H1&conn_path=I4
+대구기본통계,유통.금융.물가.무역,금융기관,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_H21001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_H2&conn_path=I4
+대구기본통계,유통.금융.물가.무역,소비자물가지수,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_H33003_2015&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_H3&conn_path=I4
+대구기본통계,유통.금융.물가.무역,수출입 통관 실적,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_H41001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_H4&conn_path=I4
+대구기본통계,주택.건설,주택 현황 및 보급률,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_I10001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_I&conn_path=I4
+대구기본통계,교통.관광 및 정보통신,자동차등록,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_J11001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_J1&conn_path=I4
+대구기본통계,교통.관광 및 정보통신,관광사업체 등록,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_J21002&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_J2&conn_path=I4
+대구기본통계,교통.관광 및 정보통신,우편시설,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_J31001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_J3&conn_path=I4
+대구기본통계,보건 및 사회보장,의료기관,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_K11001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_K1&conn_path=I4
+대구기본통계,보건 및 사회보장,국민연금 가입자,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_K21001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_K2&conn_path=I4
+대구기본통계,환경,환경오염물질 배출사업장,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_L10001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_L&conn_path=I4
+대구기본통계,교육 및 문화,학교 총개황,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_M11001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_M1&conn_path=I4
+대구기본통계,교육 및 문화,적령아동취학(입학상황),http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_M1F001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_M1&conn_path=I4
+대구기본통계,재정,예산결산 총괄,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_N41002&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_N&conn_path=I4
+대구기본통계,재정,대구경기종합지수(2010=100),http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_20304001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20304&conn_path=I4
+대구기본통계,소득,지역소득,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_O40003&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_O&conn_path=I4
+대구기본통계,공공행정 및 사법,공무원 총괄,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_P11001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_P1&conn_path=I4
+대구기본통계,공공행정 및 사법,민원서류처리,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_P33001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_P3&conn_path=I4
+대구기본통계,공공행정 및 사법,범죄발생 및 검거(월별),http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_P42002&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_P4&conn_path=I4
+대구기본통계,공공행정 및 사법,화재발생,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_P51001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_P5&conn_path=I4
+대구기본통계,공공행정 및 사법,자동차 단속 및 처리,http://kosis.daegu.go.kr/statHtml/statHtml.do?orgId=203&tblId=DT_P61001&lang_mode=ko&vw_cd=MT_OTITLE&list_id=203_20302_P6&conn_path=I4
+테마통계,그림으로보는 대구,행정구역외 11종,http://100.31.20.161:8080/themestats/dgPicture.do
+테마통계,생활통계와 지도,대구시민 소비자상담 및 피해구제 동향,http://100.31.20.161:8080/sgis/cusCounsel.do
+테마통계,정책통계와 지도,인구.가구.가족외 9종,http://100.31.20.161:8080/economicIndex.do
+통계간행물,대구통계연보,대구통계연보,http://100.31.20.161:8080/statsPublication/statsYearbook.do
+통계간행물,계간대구통계,계간대구통계,http://100.31.20.161:8080/statsPublication/quarterlyDgStats.do
+통계간행물,주민등록인구통계,주민등록인구통계,http://100.31.20.161:8080/statsPublication/populationStats.do
+통계간행물,사업체통계,사업체통계,http://100.31.20.161:8080/statsPublication/businessStats.do
+통계간행물,광업.제조업통계,광업.제조업통계,http://100.31.20.161:8080/statsPublication/miningManufacturing.do
+통계간행물,지역내총생산(GRDP),지역내총생산(GRDP),http://100.31.20.161:8080/statsPublication/GRDP.do
+통계간행물,대구사회조사,대구사회조사,http://100.31.20.161:8080/statsPublication/dgSocialSurvey.do#
+통계간행물,구군 장래인구추계,구군 장래인구추계,http://100.31.20.161:8080/statsPublication/futurePopulation.do
+통계간행물,경기종합지수,경기종합지수,http://100.31.20.161:8080/statsPublication/policyPart/economyIndex.do
+통계간행물,노인실태조사,노인실태조사,http://100.31.20.161:8080/statsPublication/policyPart/oldsterResearch.do
+통계간행물,노인등록통계,노인등록통계,http://100.31.20.161:8080/statsPublication/policyPart/oldsterRegStat.do
+통계간행물,교통량조사,교통량조사,http://100.31.20.161:8080/statsPublication/policyPart/trafficResearch.do
+통계간행물,대구관광실태조사,대구관광실태조사,http://100.31.20.161:8080/statsPublication/policyPart/dgTourResearch.do
+통계간행물,주택통계연감,주택통계연감,http://100.31.20.161:8080/statsPublication/policyPart/residenceYearbook.do
+통계간행물,대구광역도시권통계,대구광역도시권통계,http://100.31.20.161:8080/statsPublication/dgMetroAreaStats.do
+,,,
