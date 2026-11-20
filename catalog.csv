@@ -1,42 +1,85 @@
 ﻿dataset_id,title,provider,file_name,status,size_mb,sha256,fetched,license,provide_type,source_url,note
 15001361,한국전기안전공사_전기재해 현황_20251231,한국전기안전공사,전기재해 현황.csv,보관,0.00,26ed417c95564cdc,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15001361/fileData.do,
 15001507,한국가스안전공사_ 가스사고 신고 접수 현황_20260630,한국가스안전공사,6.한국가스안전공사 가스사고 신고 접수 현황_260630.csv,보관,1.97,e02ef454e3490b58,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15001507/fileData.do,
+15001654,보건복지부_기초생활보장 수급자 수_시도별_20241231,보건복지부,보건복지부_기초생활보장 수급자 수_시도별_20241231.csv,보관,0.00,ce81ea9614c197c7,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15001654/fileData.do,
 15001753,한국전기안전공사_지역별 전기안전보안관 현황_20251231,한국전기안전공사,지역별 전기안전보안관 현황.csv,보관,0.13,fbb9511ae24aa18e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15001753/fileData.do,
 15002094,대구교통공사_공기질_20251231,대구교통공사,공기질.csv,보관,0.00,4459727f9e683727,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15002094/fileData.do,
 15002506,대구교통공사_역별 무료자전거 운영 현황_20260930,대구교통공사,역별 무료자전거 운영 현황.csv,보관,0.00,2eebcbddaffb76f7,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15002506/fileData.do,
+15003356,보건복지부_장애인 편의시설 설치현황_20231231,보건복지부,보건복지부_장애인 편의시설 설치현황_20231231.csv,보관,0.01,b14140a4eb28b84b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15003356/fileData.do,
+15004296,보건복지부_노인실태조사 결과 보고서_20231130,보건복지부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지, 변경금지 (제 4유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15004296/fileData.do,https://www.mohw.go.kr/board.es?mid=a10411010200&bid=0019&act=view&list_no=1483359&tag=&nPage=1
 15004317,보건복지부_노인돌봄서비스 기관 현황_20240423,보건복지부,보건복지부_노인돌봄서비스 기관 현황_20240423.csv,보관,0.13,ee5c8176617363cc,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15004317/fileData.do,
 15005045,대구광역시_사고 종별 구조건수_20241231,대구광역시,대구광역시_사고 종별 구조건수.csv,보관,0.00,741d49418d8b2f8c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15005045/fileData.do,
 15005469,대구광역시_소방관서현황_20260204,대구광역시,대구광역시 소방관서 현황260204.csv,보관,0.00,95461ae32c962b28,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15005469/fileData.do,
 15006074,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15006367,대구광역시 북구_장애인근로사업장_20260520,대구광역시 북구,대구광역시 북구_장애인근로사업장_20260520.csv,보관,0.00,b035f5394322266f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15006367/fileData.do,
+15006781,대구광역시 달성군_기상관측 정보_20180517,대구광역시 달성군,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15006781/fileData.do,포털 파일 없음
 15009571,한국사회보장정보원_복지사업 월별 급여지급 현황_20251231,한국사회보장정보원,2_2.한국사회보장정보원_복지사업 월별 급여지급 현황_20251231.csv,보관,0.00,1c70e16c9443929e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15009571/fileData.do,
+15010672,한국노인인력개발원 고령자친화기업 정보_20250916,한국노인인력개발원,한국노인인력개발원 고령자친화기업 정보_2025.csv,보관,0.06,90bbb5d7da8de377,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15010672/fileData.do,
+15010694,한국노인인력개발원 시니어직능클럽 정보_20191004,한국노인인력개발원,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15010694/fileData.do,포털 파일 없음
+15010695,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15010700,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15011868,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15012894,소상공인시장진흥공단_전통시장,소상공인시장진흥공단,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15012894/fileData.do,포털 파일 없음
 15013237,행정안전부_재난안전신기술_20260831,행정안전부,신기술 현황(26.8월 기준)_수정.csv,보관,0.04,a550410406176b2c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15013237/fileData.do,
+15013805,대구광역시 수성구_노인복지시설_20250915,대구광역시 수성구,대구광역시_수성구_노인복지시설_20250915.csv,보관,0.02,9303837ad533b1e9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15013805/fileData.do,
 15014225,행정안전부_사고발생 현황_20241231,행정안전부,행정안전부_사고발생 현황_20251231 기준 현행화v2.csv,보관,0.00,3b8a62eec0ba629c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15014225/fileData.do,
 15016405,행정안전부_재해연보(연도별)_20240105,행정안전부,,외부,,,2026-11-20,공공저작물 : 자유이용 (제 0유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15016405/fileData.do,https://www.safekorea.go.kr/safekorea-kor/cmmn/bbs/bbsView.do?menuSn=45&bbsSn=&currentPage=&searchType=&keyword=&bbscttSn=100
 15016407,행정안전부_재난연감(연도별)_20241231,행정안전부,,외부,,,2026-11-20,공공저작물 : 자유이용 (제 0유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15016407/fileData.do,https://www.safekorea.go.kr/safekorea-kor/cmmn/bbs/bbsView.do?menuSn=46&bbsSn=&currentPage=&searchType=&keyword=&bbscttSn=31
 15016408,소방청_소방분야 통계연보_20251231,소방청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15016408/fileData.do,https://www.nfa.go.kr/nfa/releaseinformation/statisticalinformation/main/?boardId=bbs_0000000000000019&mode=view&cntId=80&category=&pageIdx=&searchCondition=&searchKeyword=
 15017366,한국승강기안전공단 국내 승강기 보유 현황_20251231,한국승강기안전공단,한국승강기안전공단_국내 승강기 보유 현황.csv,보관,44.63,2e0fedb760e469b6,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15017366/fileData.do,
+15019025,한국노인인력개발원 연구 조사 보고서_20171017,한국노인인력개발원,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15019025/fileData.do,https://www.kordi.or.kr/content.do?bid=248&mode=view&page=&cid=196&sf_category=N107_2&cmsId=174
 15025381,행정안전부_물놀이 안전사고 현황_20251231,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15025381/fileData.do,포털 파일 없음
 15025398,소방청_소방장비 및 시설 현황_20191231,소방청,소방장비현황(2019).csv,보관,0.00,23ea4c8a2cc7c110,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15025398/fileData.do,
 15025400,소방청_화재경계지구 현황_20200820,소방청,화재경계지구현황(2017).csv,보관,0.00,dccbfa686255094f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15025400/fileData.do,
 15025425,소방청_헬기 구조 현황_20251231,소방청,소방헬기 구조 현황(2025).csv,보관,0.00,fb0ab14607b25ea1,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15025425/fileData.do,
+15026988,한국노인인력개발원_60 플러스 교육센터 정보_20211231,한국노인인력개발원,16.한국노인인력개발원_60 플러스 교육센터 정보_2021_최종.csv,보관,0.00,ee7361a1b3d9a7f9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15026988/fileData.do,
+15028053,대구광역시 북구_노인복지관_20260701,대구광역시 북구,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15028053/fileData.do,포털 파일 없음
 15028072,대구광역시 북구_노인요양시설_20260701,대구광역시 북구,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15028072/fileData.do,포털 파일 없음
 15029666,대구광역시 북구_기초생활보장수급자현황_20260630,대구광역시 북구,대구광역시 북구_기초생활보장수급자현황_20260630.csv,보관,0.00,f395aebeca618f8d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15029666/fileData.do,
+15030561,대구광역시 북구_장애인등록현황_20251231,대구광역시 북구,대구광역시_북구_장애인등록현황_20251231.csv,보관,0.02,437f7ff33ac90d7c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15030561/fileData.do,
 15031865,대구광역시_화재안전 중점관리대상 현황_20251130,대구광역시,대구광역시_중점관리대상 현황_20251128v1.csv,보관,0.03,581ece5377bd81df,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15031865/fileData.do,
 15031913,행정안전부_사회재난 핵심용어집 정보_20180911,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15031913/fileData.do,http://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000012&nttId=61227
 15031941,한국전력공사_지역별용도별 전력사용량 현황_20220331,한국전력공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15031941/fileData.do,https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000167
 15033759,소방청_전국소방관서_현황_20260701,소방청,소방청_전국 소방관서_현황(2026.07.01.).csv,보관,0.00,7692d8b65cbf25a1,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15033759/fileData.do,
 15033761,소방청_전국 의용소방대 연합회 정보_20200908,소방청,소방청_전국 의용소방대 연합회 소재지(2017).csv,보관,0.00,411976d96f91a02f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15033761/fileData.do,
 15033927,소방청_소방관 순직 및 사상자 현황_20171231,소방청,소방공무원 순직·공상자 현황.csv,보관,0.00,f9b99d78171f0889,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15033927/fileData.do,
+15034114,대구광역시 남구_기초생활보장수급자 현황_20251028,대구광역시 남구,대구광역시_남구_기초생활보장수급자 현황_20251028.csv,보관,0.00,55555e8da7c64634,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15034114/fileData.do,
 15037435,소방청_주택용 소방시설 설치율 정보_20190712,소방청,"주택용 소방시설 설치율 현황(2018,12,31).csv",보관,0.00,228f97529d96d432,2026-11-20,,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15037435/fileData.do,
+15037837,대구광역시 중구_독거노인 현황_20190809,대구광역시 중구,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15037837/fileData.do,http://www.jung.daegu.kr/new/pages/administration/page.html?mc=179&no=gNwETM&mode=view&bbs_id=board_97&start=0&key=&keyword=&category=&search_date_start=&search_date_end=&dongcode=&DEP_CODE=
 15038959,행정안전부 국립과학수사연구원_연구과제 결과보고서_20251231,행정안전부 국립과학수사연구원,260605_국립과학수사연구원 연구과제 결과보고서(2013-2025).csv,보관,0.09,902fe4cdf8d6ab9f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15038959/fileData.do,
+15039034,보건복지부_노인복지 시설현황_20241231,보건복지부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지, 변경금지 (제 4유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15039034/fileData.do,https://www.mohw.go.kr/board.es?mid=a10411010300&bid=0019&act=view&list_no=1486600&tag=&nPage=1
 15039291,한국전력공사_가구평균 전력사용량_20220331,한국전력공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15039291/fileData.do,https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000171&pstate=L&redirect=Y
 15042105,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15043491,기상청_중기예보_20200108,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043491/fileData.do,https://data.kma.go.kr/data/weatherReport/mrfList.do?pgmNo=646
+15043493,기상청_초단기실황_20220901,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043493/fileData.do,https://data.kma.go.kr/data/rmt/rmtList.do?code=400&pgmNo=570
+15043551,기상청_등표기상관측자료_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043551/fileData.do,https://data.kma.go.kr/data/sea/selectRhRltmList.do?pgmNo=53
+15043552,기상청_해양기상부이 관측자료_20200107,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043552/fileData.do,https://data.kma.go.kr/data/sea/selectBuoyRltmList.do?pgmNo=52
+15043553,기상청_파고부이 관측자료_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043553/fileData.do,https://data.kma.go.kr/data/sea/selectFargoBuoyRltmList.do?pgmNo=55
+15043554,기상청_표류부이경로_20161231,기상청,,외부,,,2026-11-20,,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15043554/fileData.do,포털 파일 없음
+15043555,기상청_피부질환가능지수_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043555/fileData.do,https://data.kma.go.kr/data/lwi/hwiRltmList.do?pgmNo=642
+15043556,기상청_감기가능지수_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043556/fileData.do,https://data.kma.go.kr/data/lwi/hwiRltmList.do?pgmNo=642
 15043557,기상청_천식폐질환가능지수_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043557/fileData.do,https://data.kma.go.kr/data/lwi/hwiRltmList.do?pgmNo=642
+15043558,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15043559,기상청_꽃가루농도위험지수_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043559/fileData.do,https://data.kma.go.kr/data/lwi/hwiRltmList.do?pgmNo=642
+15043561,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15043564,기상청_수치분석일기도_20200109,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043564/fileData.do,https://data.kma.go.kr/data/rmt/rmtList.do?code=372&pgmNo=568
+15043568,기상청_태풍경로_20200109,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043568/fileData.do,https://data.kma.go.kr/data/typhoonData/typTrack.do?pgmNo=704
+15043569,기상청_태풍목록_20200109,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043569/fileData.do,https://data.kma.go.kr/data/typhoonData/typList.do?pgmNo=688
+15043570,기상청_태풍정보_20200109,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043570/fileData.do,https://data.kma.go.kr/data/typhoonData/typInfoTYList.do?pgmNo=689
 15043573,기상청_기상특보구역정보_20260601,기상청,기상청_기상특보구역정보_20260601.csv,보관,0.01,9e79115c1a56759c,2026-11-20,공공저작물 : 자유이용 (제 0유형),공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15043573/fileData.do,
+15043574,기상청_관측지점정보_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043574/fileData.do,https://data.kma.go.kr/tmeta/stn/selectStnList.do?pgmNo=123
+15043578,기상청_체감온도(겨울철)_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043578/fileData.do,https://data.kma.go.kr/data/lwi/lwiRltmList.do?pgmNo=635
 15043579,기상청_동파가능지수_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043579/fileData.do,https://data.kma.go.kr/data/lwi/lwiRltmList.do?pgmNo=635
+15043580,기상청_대기정체지수_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043580/fileData.do,https://data.kma.go.kr/data/lwi/lwiRltmList.do?pgmNo=635
 15043581,기상청_식중독지수_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043581/fileData.do,https://data.kma.go.kr/data/lwi/hwiRltmList.do?pgmNo=642
+15043598,기상청_천리안위성2A호 기본관측자료(NetCDF)_20200108,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043598/fileData.do,https://data.kma.go.kr/data/rmt/rmtList.do?code=21&pgmNo=683
+15043599,기상청_천리안위성1호 기본산출물(HDF)_20200108,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043599/fileData.do,https://data.kma.go.kr/data/rmt/rmtList.do?code=20&pgmNo=63
+15043602,기상청_천리안위성1호 기본관측자료(이진)_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043602/fileData.do,https://data.kma.go.kr/data/rmt/rmtList.do?code=20&pgmNo=63
 15043641,기상청_황사관측(PM10) 자료_20200107,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043641/fileData.do,https://data.kma.go.kr/data/climate/selectDustRltmList.do?pgmNo=68
+15043642,기상청_낙뢰관측_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043642/fileData.do,https://data.kma.go.kr/data/lightning/lightningRltmList.do?pgmNo=641
+15043644,기상청_공공기관 기상관측자료_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043644/fileData.do,https://data.kma.go.kr/data/grnd/selectAwosRltmList.do?pgmNo=638
+15043645,기상청_북한기상관측자료_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043645/fileData.do,https://data.kma.go.kr/data/grnd/selectNkRltmList.do?pgmNo=58
+15043646,기상청_농업기상관측자료_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043646/fileData.do,https://data.kma.go.kr/data/grnd/selectAgrRltmList.do?pgmNo=72
 15043647,"기상청_지상(방재,AWS)기상관측자료_20200107",기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043647/fileData.do,https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56
 15043648,"기상청_지상(종관, ASOS)기상관측자료_20200107",기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043648/fileData.do,https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36
 15043847,한국가스안전공사_가스사고예방사례집_20201029,한국가스안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15043847/fileData.do,https://www.kgs.or.kr/kgs/abce/board.do
@@ -46,8 +89,14 @@
 15044003,소방청_화재발생 정보_20241231,소방청,소방청_화재발생 정보_20241231.csv,보관,22.61,97662c1de60221e1,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15044003/fileData.do,
 15044004,소방청_소방청_서울 은평구 화재발생 현황_20181023,소방청,서울특별시 은평구 동별 화재발생 현황(2017).csv,보관,0.00,516303bd7cf9c8a3,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15044004/fileData.do,
 15044221,한국지역난방공사_광주전남 및 대구 태양광발전소 시간대별 운영현황_20251231,한국지역난방공사,한국지역난방공사_광주전남 및 대구 태양광발전소 시간대별 운영현황_20251231.csv,보관,2.27,844e5873421a4ffa,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15044221/fileData.do,
+15044286,보건복지부_장애인연금 수급자 현황_시도별_20241231,보건복지부,보건복지부_장애인연금 수급자 현황_시도별_20241231.csv,보관,0.00,3bf80d31085b0a3f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15044286/fileData.do,
 15044540,보건복지부_응급의료기관 수_시도별_20241231,보건복지부,보건복지부_응급의료기관 수_시도별_20241231.csv,보관,0.00,81e4a32855971de0,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15044540/fileData.do,
+15044550,보건복지부_장애인 실태조사_20231231,보건복지부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지, 변경금지 (제 4유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15044550/fileData.do,https://www.mohw.go.kr/board.es?mid=a10411010200&bid=0019&act=view&list_no=1483622&tag=&nPage=1
 15044657,소방청_소방공무원 경력경쟁 채용시험 공고_20181231,소방청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15044657/fileData.do,https://www.nfsa.go.kr/nfsa/news/0011/job/?boardId=bbs_0000000000000037&mode=view&cntId=111106&category=&pageIdx=2&searchCondition=all&searchKeyword=2018%EB%85%84%EB%8F%84
+15044947,대구광역시_달성군_노인복지시설현황_20251104,대구광역시 달성군,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15044947/fileData.do,포털 파일 없음
+15044954,행정안전부_자원환경_환경전문공사업_20251127,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15044954/fileData.do,https://file.localdata.go.kr/file/environment_contractors/info
+15044955,행정안전부_자원환경_환경측정대행업_20251127,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15044955/fileData.do,https://file.localdata.go.kr/file/environment_measurement_agencies/info
+15044957,행정안전부_자원환경_대기오염물질배출시설설치사업장_20251127,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15044957/fileData.do,https://file.localdata.go.kr/file/air_pollution_facility_installation/info
 15045031,행정안전부_건강_응급환자이송업_20251127,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15045031/fileData.do,https://file.localdata.go.kr/file/emergency_patient_transport/info
 15046229,서울특별시_가로수 위치정보 (좌표계: WGS1984) _20120425,서울특별시,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15046229/fileData.do,http://data.seoul.go.kr/dataList/OA-1325/S/1/datasetView.do
 15046352,서울특별시_119 구급활동 실적 (소방서별) 통계_20241231,서울특별시,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15046352/fileData.do,https://data.seoul.go.kr/dataList/DT201004O160032/S/2/datasetView.do
@@ -55,6 +104,25 @@
 15046370,서울특별시_원인별 화재발생 (동별) 통계_20251231,서울특별시,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15046370/fileData.do,https://data.seoul.go.kr/dataList/DT201004O1600272020/S/2/datasetView.do
 15047076,서울특별시_가로수 현황 통계_20241231,서울특별시,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047076/fileData.do,https://data.seoul.go.kr/dataList/DT201004J010015/S/2/datasetView.do
 15047145,서울특별시_공동주택 현황(세대수별) 통계_20251231,서울특별시,,외부,,,2026-11-20,공공저작물 : 자유이용 (제 0유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047145/fileData.do,https://data.seoul.go.kr/dataList/DT201004K010017/S/2/datasetView.do
+15047712,한국사회보장정보원_기초생활보장 수급자구분별 연령구간별 성별 수급자수[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047712/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=3&datsClNo=1011&datsClCrit=WS
+15047713,"한국사회보장정보원_기초생활보장 연령대별 장애인포함가구수, 장애인수급자수(일반)[월간]_20210731",한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047713/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=4&datsClNo=1012&datsClCrit=WS
+15047714,"한국사회보장정보원_기초생활보장 수급자구분별 수급가구수, 수급자수[월간]_20210731",한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047714/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=1&datsClNo=1011&datsClCrit=WS
+15047715,한국사회보장정보원_기초생활보장 수급자구분별 가구원수별 수급가구수[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047715/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=2&datsClNo=1011&datsClCrit=WS
+15047716,한국사회보장정보원_기초생활보장 근로능력 판정유형별 수급자수(일반)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047716/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=6&datsClNo=1012&datsClCrit=WS
+15047717,한국사회보장정보원_기초생활보장 연령별 수급자수(일반)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047717/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=7&datsClNo=1012&datsClCrit=WS
+15047718,한국사회보장정보원_기초생활보장 가구구성별 수급가구수(일반)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047718/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=8&datsClNo=1012&datsClCrit=WS
+15047720,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15047722,한국사회보장정보원_기초생활보장 자격별 수급가구수(중복제거)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047722/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=54&datsClNo=1013&datsClCrit=WS
+15047723,한국사회보장정보원_기초생활보장 자격별 수급자수(중복제거)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047723/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=55&datsClNo=1013&datsClCrit=WS
+15047724,한국사회보장정보원_기초생활보장 자격별 수급가구수(중복허용)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047724/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=70&datsClNo=1013&datsClCrit=WS
+15047725,한국사회보장정보원_기초생활보장 자격별 수급자수(중복허용)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047725/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=71&datsClNo=1013&datsClCrit=WS
+15047726,한국사회보장정보원_기초생활보장 장애정도별 장애인수급자수(일반)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047726/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=5&datsClNo=1012&datsClCrit=WS
+15047742,한국사회보장정보원_장애아동수당 장애정도별 장애유형별 수급자수(차상위)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047742/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=43&datsClNo=1044&datsClCrit=WS
+15047743,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15047750,한국사회보장정보원_장애아동수당 장애정도별 장애유형별 수급자수(기초생활보장)[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047750/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=42&datsClNo=1044&datsClCrit=WS
+15047753,한국사회보장정보원_장애인등록 장애정도별 장애유형별 장애인수[월간]_20210731,한국사회보장정보원,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15047753/fileData.do,https://www.bokjiro.go.kr/ssis-teu/twatga/sociGuaStat/SociGuaStatDetailIframe.do?datsNo=22&datsClNo=1041&datsClCrit=WS
+15047920,대구광역시_장애인 거주시설현황_20260930,대구광역시,대구광역시_장애인거주시설현황_20260930.csv,보관,0.01,648cd5b31990fbe9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15047920/fileData.do,
+15047922,대구광역시_장애인 직업재활시설현황_20220630,대구광역시,대구광역시_직업재활시설현황_20220630.csv,보관,0.01,e34f12667f6d2173,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15047922/fileData.do,
 15048078,행정안전부_승강기 중대한 사고 발생 내역_20260731,행정안전부,승강기 중대사고 내역_20260731.csv,보관,0.38,6a9341c844ffe199,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15048078/fileData.do,
 15048080,행정안전부_승강기 중대한 고장 발생 내역_20260731,행정안전부,승강기 중대한고장 내역_2026.08월 기준.csv,보관,14.89,a5d8ce00b2f3fd18,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15048080/fileData.do,
 15048243,소방청_시도 소방서 현황_20260701,소방청,시도 소방서 현황(2026.07.01).csv,보관,0.02,8ecb426f96537121,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15048243/fileData.do,
@@ -62,9 +130,33 @@
 15049237,기후에너지환경부 국립환경과학원_권역별 미세먼지(PM2 5) 농도 특성 파악 및 생성과정 연구(Ⅲ)_20131231,기후에너지환경부 국립환경과학원,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15049237/fileData.do,https://library.mcee.go.kr/#/search/detail/5567975
 15049240,기후에너지환경부 국립환경과학원_대기환경연보(2019)_20200731,기후에너지환경부 국립환경과학원,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15049240/fileData.do,https://library.mcee.go.kr/#/search/detail/5700499?offset=6
 15049244,기후에너지환경부 국립환경과학원_국가환경데이터센터 대기측정자료_20181201,기후에너지환경부 국립환경과학원,샘플데이터(국가환경데이터 대기오염물질 정보) (5).zip,보관,0.02,081d479da7dcfd57,2026-11-20,공공저작물 : 자유이용 (제 0유형),공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15049244/fileData.do,
+15049916,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15050038,행정안전부_지방재정365_재난관리기금전출금확보_20241010,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050038/fileData.do,https://www.lofin365.go.kr/portal/LF5110000.do?pdtaId=MI7OM1UHGLOAF15VZH2H1331417
+15050144,한국노인인력개발원_노인일자리 대한노인회모집정보_20251231,한국노인인력개발원,노인일자리 대한노인회모집정보.csv,보관,0.57,8e9c143a38e46eee,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15050144/fileData.do,
+15050145,한국노인인력개발원_노인일자리사업 심사정보_20260112,한국노인인력개발원,한국노인인력개발원_노인일자리사업_심사관리_정보.csv,보관,1.93,c884ac583a988463,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15050145/fileData.do,
+15050146,한국노인인력개발원_노인일자리사업 계획서 재정 정보_20251231,한국노인인력개발원,노인일자리사업 계획서 재정 정보.csv,보관,1.63,026eca897d2a793e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15050146/fileData.do,
+15050147,한국노인인력개발원_노인일자리사업 홈페이지 공고 정보_20241216,한국노인인력개발원,14.한국노인인력개발원_노인일자리사업 홈페이지 공고 정보_2024.csv,보관,1.45,a20690f05ca31a0e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15050147/fileData.do,
+15050148,,,,오류,,,2026-11-20,,,,HTTP Error 500: Internal Server Error
 15050409,행정안전부_도로명주소 민원행정기관 전자지도_20240331,행정안전부,행정안전부_도로명주소 민원행정기관 전자지도_20240331.pptx,보관,0.51,91a57f01ff655dd5,2026-11-20,공공저작물 : 출처표시 (제 1유형),공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15050409/fileData.do,
+15050673,기상청_태양기상자원지도_20241231,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050673/fileData.do,https://data.kma.go.kr/data/weatherResourceMap/selectWeatherResourceMapSlaNew.do?srt=ANN&pgmNo=756
+15050674,기상청_풍력기상자원지도_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050674/fileData.do,https://data.kma.go.kr/data/weatherResourceMap/selectWeatherResourceMapWdpw.do?pgmNo=107
+15050678,기상청_레이더 사이트 관측자료_20200108,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050678/fileData.do,https://data.kma.go.kr/data/rmt/rmtList.do?code=10&pgmNo=61
+15050682,기상청_기상연감(연간)_20231231,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050682/fileData.do,https://www.kma.go.kr/kma/archive/pub.jsp?field1=grp&text1=yearbook#gal_cate3
+15050683,기상청_한국기후도_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050683/fileData.do,http://www.weather.go.kr/weather/climate/average_normal.jsp
+15050684,기상청_한국기후표_20200110,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050684/fileData.do,https://data.kma.go.kr/data/publication/publicationAsosList.do?pgmNo=143
+15050685,기상청_북한기후표_20231231,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050685/fileData.do,https://data.kma.go.kr/data/publication/publicationNkList.do?pgmNo=566
+15050686,기상청_지진연보_20250228,기상청,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050686/fileData.do,https://www.kma.go.kr/kma/archive/pub.jsp?field1=grp&text1=earthquakeye#gal_cate9
+15050688,기상청_해관기상관측자료_20200110,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050688/fileData.do,https://data.kma.go.kr/cdps/original/selectOriginalMaritimeList.do?pgmNo=202
+15050689,기상청_조선왕조실록 기상기록_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050689/fileData.do,https://data.kma.go.kr/data/history/selectJoseonDynastyHistoryList.do?pgmNo=81
+15050691,기상청_통계원부류_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050691/fileData.do,https://data.kma.go.kr/cdps/original/selectOriginalList.do?pgmNo=46
+15050692,기상청_자기기록지_20200110,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050692/fileData.do,https://data.kma.go.kr/cdps/record/selectRecordList.do?pgmNo=45
+15050693,기상청_GTS 지상(SYNOP) 자료_20191226,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050693/fileData.do,https://data.kma.go.kr/data/ogd/selectGtsRltmList.do?pgmNo=658
+15050694,기상청_GTS 부이(BUOY) 자료_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050694/fileData.do,https://data.kma.go.kr/data/ogd/selectGtsBuoyRltmList.do?pgmNo=701
+15050695,기상청_GTS 고층(TEMP) 자료_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15050695/fileData.do,https://data.kma.go.kr/data/ogd/selectGtsTempRltmList.do?pgmNo=702
 15050946,대구광역시_시내버스 정류소 위치정보_20260902,대구광역시,대구광역시_시내버스 정류소 위치정보_20260902.csv,보관,0.49,5779d1f89b5bcd1b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15050946/fileData.do,
+15052277,보건복지부 국립재활원_질병별 장애인 건강관리 정보_20251231,보건복지부 국립재활원,장애인 건강관리 정보(2025년).hwpx,보관,0.20,7969306214cac097,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15052277/fileData.do,
+15052607,기상청_항공기상통계자료_20200107,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15052607/fileData.do,https://data.kma.go.kr/data/air/selectAmosRltmList.do?pgmNo=575
+15052608,기상청_공항기상관측자료_20200107,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15052608/fileData.do,https://data.kma.go.kr/data/air/selectAmosRltmList.do?pgmNo=575
 15052707,행정안전부_풍수해지진재해보험 보험금 지급 현황_20251231,행정안전부,풍수해·지진재해보험 보험금 지급 현황(2021~2025년).zip,보관,0.00,782cf48c45d99631,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15052707/fileData.do,
 15052708,행정안전부_풍수해지진재해보험 가입 현황_20251231,행정안전부,풍수해·지진재해보험 가입 현황(2021~2025년).zip,보관,0.00,76c436285ea5cd5e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15052708/fileData.do,
 15052711,DMB 재난경보방송 발령 현황(2015~2018년현재)_20181207,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15052711/fileData.do,포털 파일 없음
@@ -75,8 +167,12 @@
 15052836,소상공인시장진흥공단_전국 전통시장 현황_20151231,소상공인시장진흥공단,소상공인시장진흥공단_전국 전통시장 현황_20151231.csv,보관,0.18,9a32e83bade25d86,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15052836/fileData.do,
 15052837,소상공인시장진흥공단_전통시장현황_20260804,소상공인시장진흥공단,소상공인시장진흥공단_전통시장현황_20260804.csv,보관,0.22,3301136471bd9bb5,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15052837/fileData.do,
 15053170,한국전력공사_e영업통계 정보_04/30/2016,한국전력공사,e영업통계+정보(11년~16년4월).csv,보관,0.37,be15f5bf02181e0e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15053170/fileData.do,
+15053535,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15053844,대구광역시 서구_노인복지시설 현황_20260210,대구광역시 서구,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15053844/fileData.do,포털 파일 없음
+15053845,대구광역시_서구_노인교실 현황_20260724,대구광역시 서구,대구광역시_서구_노인교실현황20260724.csv,보관,0.00,77addcb1fca43ee5,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15053845/fileData.do,
 15054213,국토교통부_건물에너지 가스에너지_20240930,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15054213/fileData.do,https://www.hub.go.kr/portal/opn/tyb/idx-nbem-gas.do
 15054214,국토교통부_건물에너지 전기에너지_20240930,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15054214/fileData.do,https://www.hub.go.kr/portal/opn/tyb/idx-nbem-elcty.do
+15054402,한국지역난방공사_지사별 대기오염물질 배출 농도 정보_20251231,한국지역난방공사,한국지역난방공사_지사별 대기오염물질 배출 농도 정보_20251231.csv,보관,0.00,0c4782c86dd9fae1,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15054402/fileData.do,
 15060386,소방청_연간화재통계_20241231,소방청,연간화재통계_2024.csv,보관,6.29,4211c65fa236717d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15060386/fileData.do,
 15060820,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15061186,소방청_119신고 전화 유형_20251231,소방청,소방청 119 신고전화 통계(2011 ~ 2025) (1).csv,보관,0.00,02ab95685f5e3200,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15061186/fileData.do,
@@ -104,6 +200,7 @@
 15064434,소방청_식용유 화재 실험 영상_20200916,소방청,식용유 화재 실험 영상(샘플).avi,보관,15.02,33d40ad5be752dd4,2026-11-20,,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15064434/fileData.do,
 15065056,소방청_119안전센터 현황_20260701,소방청,119안전센터 현황.zip,보관,0.06,b27eea2cc6183692,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15065056/fileData.do,
 15065063,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15065080,대구광역시 달서구_노인복지시설 현황_20260508,대구광역시 달서구,대구광역시_달서구_노인복지시설현황_20260508.csv,보관,0.04,fa218f17efc7988d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15065080/fileData.do,
 15065108,소방청_심정지환자 출동 현황_20191231,소방청,전국 심정지환자 출동 현황(2019).csv,보관,0.00,c1be565327d8b474,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15065108/fileData.do,
 15065413,보건복지부_구급차 현황_시도별_20241231,보건복지부,보건복지부_구급차 현황_시도별_20241231.csv,보관,0.01,1e68dd3ece0f9ba3,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15065413/fileData.do,
 15066450,대구광역시_남구_차상위계층현황_20251028,대구광역시 남구,대구광역시 남구_차상위계층현황_20251028.csv,보관,0.01,ea802eb472301b3c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15066450/fileData.do,
@@ -114,11 +211,28 @@
 15066651,소방청 중앙소방학교_공무직 정원 현황_20200901,소방청 중앙소방학교,(0901) 중앙소방학교 공무직 현황.xlsx,보관,0.01,886be14b439366da,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15066651/fileData.do,
 15066854,한국가스안전공사_가스안전보안관 현황_20251201,한국가스안전공사,38.한국가스안전공사_전국 가스안전보안관 현황_251201.csv,보관,0.00,f4a0f255413d7a17,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15066854/fileData.do,
 15066860,한국가스안전공사_가스안전장치 보급현황_20251201,한국가스안전공사,47.한국가스안전공사_가스안전장치(타이머콕) 보급현황_251201.csv,보관,0.00,7cd97818b5176841,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15066860/fileData.do,
+15067093,한국노인인력개발원_기관교육과목_20211231,한국노인인력개발원,한국노인인력개발원_기관교육과목_2021.csv,보관,0.00,06af2e1dfc9aedab,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067093/fileData.do,
+15067097,한국노인인력개발원_노인일자리 직원 교육 기본 정보_20250110,한국노인인력개발원,한국노인인력개발원_교육직원과정기본_2024.csv,보관,9.93,91e0f21553858154,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067097/fileData.do,
+15067107,한국노인인력개발원_연령별 실적현황_20251030,한국노인인력개발원,한국노인인력개발원_연령별 실적현황.csv,보관,0.04,6e807f963ee240cd,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067107/fileData.do,
+15067113,한국노인인력개발원_월마감 일자 정보_20241231,한국노인인력개발원,한국노인인력개발원_월마감일자정보_2024.csv,보관,0.00,00bed68f2a64d0f3,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067113/fileData.do,
+15067126,한국노인인력개발원_취업연계 행정구역_20260630,한국노인인력개발원,한국노인인력개발원_취업연계 행정구역.csv,보관,0.57,5969fe1148951983,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067126/fileData.do,
+15067128,한국노인인력개발원_취업연계 공통상세코드_20251203,한국노인인력개발원,취업연계공통상세코드.csv,보관,0.18,8941b001ecad816a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067128/fileData.do,
+15067132,한국노인인력개발원_취업연계 공통분류코드_20251203,한국노인인력개발원,취업연계공통분류코드.csv,보관,0.18,5083b733782d7d43,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067132/fileData.do,
+15067134,한국노인인력개발원_공지사항파일_20250916,한국노인인력개발원,15067134.bin,보관,0.00,e3b0c44298fc1c14,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067134/fileData.do,
+15067136,한국노인인력개발원_취업연계 공통코드_20250916,한국노인인력개발원,15067136.bin,보관,0.00,e3b0c44298fc1c14,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067136/fileData.do,
+15067137,한국노인인력개발원_연계데이터관리_20200924,한국노인인력개발원,한국노인인력개발원_연계데이터관리_2023.csv,보관,0.00,fe495071d329174b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067137/fileData.do,
+15067142,한국노인인력개발원_교육노인센터기본_20210920,한국노인인력개발원,한국노인인력개발원_교육노인센터기본_2021.csv,보관,0.00,2a43f80135c20fb5,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067142/fileData.do,
+15067146,한국노인인력개발원_재능 사업기본_20211231,한국노인인력개발원,한국노인인력개발원_재능 사업기본_2021.csv,보관,0.02,d4413cfe286a8652,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067146/fileData.do,
 15067449,기후에너지환경부_고농도 비상저감조치 시행일자_20240130,기후에너지환경부,비상저감조치 발령 현황(23~24년).csv,보관,0.00,f2d2021f91bd3fb0,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067449/fileData.do,
 15067555,행정안전부_재난경험자 심리상담 실적_20251231,행정안전부,★재난경험자심리상담 실적('25.12.기준).csv,보관,0.00,b87d4720c04f87b3,2026-11-20,공공저작물 : 출처표시 (제 1유형),공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067555/fileData.do,
 15067796,한국가스안전공사_가스사고 현황(월별 원인별)_20251201,한국가스안전공사,27.한국가스안전공사_가스사고 현황(월별 원인별)_251201.csv,보관,0.01,67ffff2669a5d71b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15067796/fileData.do,
 15068568,행정안전부 국가민방위재난안전교육원_집합교육 통계_20201231,행정안전부 국가재난안전교육원,국가민방위재난안전교육원 집합교육 통계(2020년도)(제출용).CSV,보관,0.02,e81f8d71c1c69685,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15068568/fileData.do,
 15068570,행정안전부 국가재난안전교육원_교육훈련계획_20260101,행정안전부 국가재난안전교육원,2026년 교육훈련계획.pdf,보관,7.28,c3d03da167a6650b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15068570/fileData.do,
+15068582,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15068585,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15068592,기상청_일본 HIMAWARI8 위성자료_20200901,기상청,himawari8_ahi_le1b_ch11_rd040ps_202009010000_cast.png,보관,1.75,febd68e4a115cf9e,2026-11-20,,전자기록매체 저장 제공,https://www.data.go.kr/data/15068592/fileData.do,
+15068595,기상청_미국 GOES 위성자료_20050701,기상청,goes9_imager_le1b_ir_ea160ps_200507011425.gif,보관,0.15,e58ee585919cf464,2026-11-20,이용허락범위 제한 없음,전자기록매체 저장 제공,https://www.data.go.kr/data/15068595/fileData.do,
+15068616,보건복지부_노인복지 생활시설 수 및 생활자 현황_시설 종류별_시도별_20241231,보건복지부,보건복지부_노인복지 생활시설 수 및 생활자 현황_시설 종류별_시도별_20241231.csv,보관,0.01,26bf098187a1753a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15068616/fileData.do,
 15068820,기후에너지환경부 국가미세먼지정보센터_대기배출원조사 결과_20231231,기후에너지환경부 국가미세먼지정보센터,기후에너지환경부 국가미세먼지정보센터_대기배출원조사 결과_20231231.csv,보관,0.01,ce0ea2d9e4787e59,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15068820/fileData.do,
 15069107,대구광역시_구군별 연령별유형별 장애인등록현황_20241231,대구광역시,대구 구군별 장애인등록현황(2024년 12월 기준).csv.xlsx,보관,0.22,e12c6157b21ccbc5,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15069107/fileData.do,
 15069110,대구광역시_의용소방대 현황_20251201,대구광역시,의용소방대 현황(2025.12.1.).hwpx,보관,0.10,84878a493b2a061b,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지, 변경금지 (제 4유형)",공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15069110/fileData.do,
@@ -139,6 +253,7 @@
 15069690,한국전기안전공사_연도별 전기화재 발화원인별 현황_20251231,한국전기안전공사,연도별 전기화재 발화원인별 현황.csv,보관,0.00,77ec7b71811ca83a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15069690/fileData.do,
 15069706,한국전기안전공사_요일별 감전사고 사상자 현황_20251231,한국전기안전공사,요일별 감전사고사상자현황.csv,보관,0.00,4b939d7dd163c305,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15069706/fileData.do,
 15069711,한국전기안전공사_시간대별 감전사고 인명피해 현황_20251231,한국전기안전공사,시간대별 감전사고 인명피해 현황.csv,보관,0.00,c1f486ca6b9ed32f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15069711/fileData.do,
+15070134,한국환경공단_비점오염원_기상청강수데이터_20251128,한국환경공단,한국환경공단_비점오염원_기상청강수데이터_20251128_품질조치.csv,보관,0.62,2985765311514d6a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15070134/fileData.do,
 15070898,기후에너지환경부 국립환경과학원_대기오염도 확정자료_20251231,기후에너지환경부 국립환경과학원,기후에너지환경부 국립환경과학원_대기오염도 확정자료_25년.csv,대용량-미보관,385.5,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15070898/fileData.do,--big 으로 받기
 15071211,서울특별시_공동주택 아파트 정보_20200317,서울특별시,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15071211/fileData.do,https://data.seoul.go.kr/dataList/OA-15818/S/1/datasetView.do
 15071222,서울특별시_공동주택 관리비_20200317,서울특별시,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15071222/fileData.do,http://data.seoul.go.kr/dataList/OA-15822/S/1/datasetView.do
@@ -150,11 +265,21 @@
 15072417,국토교통부_교통안전_교통사고원인분석 사고누적구간 정보_20241231,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15072417/fileData.do,https://tmacs.kotsa.or.kr/web/TG/TG300/TG3800/Tg3800_62.jsp?mid=S1818
 15072418,국토교통부_교통안전_교통사고원인분석 사고다발지점 정보_20241231,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15072418/fileData.do,https://tmacs.kotsa.or.kr/web/TG/TG300/TG3100/Tg2127.jsp?mid=S1810
 15072469,소방청_여름철 벌집제거활동 현황(울산광역시)_20220831,소방청,울산광역시_여름철_벌집제거활동('22.07.01~08.31).csv,보관,0.17,9a604b9d0f9346b4,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15072469/fileData.do,
+15072696,국민건강보험공단_노인장기요양보험 시도별 판정 현황_20251231,국민건강보험공단,국민건강보험공단_노인장기요양보험 시도별 판정 현황_20251231.csv,보관,0.03,c1b93c8f6b562537,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15072696/fileData.do,
 15073269,국토교통부_공동주택 단지 면적 정보_20240823,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15073269/fileData.do,https://www.k-apt.go.kr/web/board/webReference/boardView.do?seq=20&boardSecret=0&boardType=03&pageNo=1&keyword=&board_pwd=&scodeT=04
 15073271,국토교통부_공동주택 단지 기본 정보_20240913,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15073271/fileData.do,https://www.k-apt.go.kr/web/board/goKaptBasicExcelDownload.do
 15073858,소방청_서울특별시 주소별 구급출동현황_20191231,소방청,서울특별시_주소별_구급출동현황(2017~2019).csv,보관,0.07,86d259a0f2b45de3,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15073858/fileData.do,
+15075529,보건복지부_장애인복지관 현황_20240425,보건복지부,보건복지부_장애인복지관 현황_20240425.csv,보관,0.04,385d0743d9fee062,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15075529/fileData.do,
+15075530,보건복지부_장애인 주간이용시설현황_20240425,보건복지부,보건복지부_장애인 주간이용시설현황_20240425.csv,보관,0.11,81d43ad123a62ba9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15075530/fileData.do,
+15075543,기상청_기후통계 메타데이터_20201228,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15075543/fileData.do,https://data.kma.go.kr/tmeta/stcs/selectMetaList.do?pgmNo=714
+15075544,기상청_세계기상전문(GTS) 태풍예보_20201231,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15075544/fileData.do,https://data.kma.go.kr/data/ogd/selectGtsTypList.do?pgmNo=711
+15075545,기상청_세계기상전문(GTS) 기후(CLIMAT)_20201231,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15075545/fileData.do,https://data.kma.go.kr/data/ogd/selectGtsClimatRltmList.do?pgmNo=713
+15075947,기상청_세계기상전문(GTS) 위험기상정보(SIGMET)_20210113,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15075947/fileData.do,https://data.kma.go.kr/data/ogd/selectGtsSigmetList.do?pgmNo=712
+15075948,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15075950,기상청_날씨 이슈별 데이터(폭염)_20220819,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15075950/fileData.do,https://data.kma.go.kr/data/weatherIssue/slthtList.do?pgmNo=690
+15075951,기상청_날씨 이슈별 데이터(황사)_20220306,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15075951/fileData.do,https://data.kma.go.kr/data/weatherIssue/ydstList.do?pgmNo=695
 15075952,기상청_영향예보(폭염)_20210101,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15075952/fileData.do,https://data.kma.go.kr/data/weatherReport/hwImpactList.do?pgmNo=696
+15075957,기상청_기상기록집_20140101,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15075957/fileData.do,https://data.kma.go.kr/data/publication/publicationHsList.do?pgmNo=153
 15080046,소방청_본부별 구급활동정보_20241231,소방청,15080046.bin,빈 파일,0.00,e3b0c44298fc1c14,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15080046/fileData.do,포털 파일이 0바이트 — 포털 문의 또는 다른 연도 자료
 15080888,소방청_전국 산악사고 구조활동현황_20201231,소방청,전국 산악사고 구조활동현황(2020).csv,보관,1.21,684bc41a1e25576a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15080888/fileData.do,
 15080889,소방청_제주 지역 구조활동현황_20201231,소방청,제주 지역 구조활동현황(2020).csv,보관,0.14,51d3f715878b09d0,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15080889/fileData.do,
@@ -180,6 +305,7 @@
 15081070,소방청_2019년 전라북도 전주시 교통사고 현황_20210504,소방청,공공데이터 제공 자료(2019년 전라북도 전주시 교통사고 현황).xlsx,보관,0.26,60a06fce7318d470,2026-11-20,,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15081070/fileData.do,
 15082970,기상청_기상특보정보_20200108,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15082970/fileData.do,https://data.kma.go.kr/data/weatherReport/wsrList.do?pgmNo=647
 15082973,행정안전부_전국어린이놀이시설안전사고정보서비스_20251231,행정안전부,행정안전부_전국어린이놀이시설안전사고정보서비스_20251231.hwpx,보관,0.06,825b19b920d65d12,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15082973/fileData.do,
+15082997,한국지역난방공사 기상관측 정보_20220228,한국지역난방공사,한국지역난방공사_기상관측 정보_20220228.csv,보관,0.07,b86fec8a478e93ad,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15082997/fileData.do,
 15083022,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15083249,대구광역시_대기질 항목별 시간평균자료_20221231,대구광역시,대기질_항목별_시간평균자료(2018_2022).csv,보관,32.44,8be4b4623b8b72ad,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15083249/fileData.do,
 15083323,한국사회보장정보원_복지서비스정보_20260819,한국사회보장정보원,한국사회보장정보원_복지서비스정보_20260819.csv,보관,0.25,218902df57869793,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15083323/fileData.do,
@@ -189,6 +315,8 @@
 15084049,대구광역시 달서구_112 119 월별 실시간 영상활용현황_20251204,대구광역시 달서구,대구광역시_달서구_112 119 월별 실시간 영상활용현황_20251204.csv,보관,0.00,2b4fffeaf12bc062,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15084049/fileData.do,
 15085042,한국에너지공단_제로에너지건축물 인증현황_20251231,한국에너지공단,제로에너지건축물 인증현황(2025).csv,보관,1.00,fd55d082b6276144,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15085042/fileData.do,
 15086125,소방청_드론 보유 현황_20260731,소방청,소방드론 기체관리 시스템.csv,보관,0.06,28ed330c4b1d6084,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15086125/fileData.do,
+15086142,산림청 국립산림과학원_대기오염 산림피해 조사자료정보_20080102,산림청 국립산림과학원,03_NIFOS_대기오염산림피해조사자료_v1.2.csv,보관,2.15,3449ae68c51d3466,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15086142/fileData.do,
+15086275,대구광역시 동구_동별 장애인등록현황_20260407,대구광역시 동구,대구광역시 동구_동구_동별 장애인등록현황_20260407.csv,보관,0.00,7b5b9591720b5a97,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15086275/fileData.do,
 15086434,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15086622,한국전기안전공사_건물별 정기검사 일정_20201231,한국전기안전공사,건물별 정기검사 일정(2020).csv,보관,0.29,5e272eb222cce411,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15086622/fileData.do,
 15087115,한국전기안전공사_월별 전기안전 사고유형(부스바감전)_20240322,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15087115/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00052&refer_url=&mediaId=756c47fabc44473b9e8f7e99e4e87d13&user_di=&file_id=&apiYn=Y&currentPage=2&sch_type=all&sch_text=
@@ -203,6 +331,7 @@
 15087148,한국전기안전공사_월별 전기안전 사고유형 (차단기교체 안전사고)_20240307,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15087148/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00052&refer_url=&mediaId=e5679a4edf354310a1c0d6b44b6f70be&user_di=&file_id=&apiYn=Y&currentPage=4&sch_type=all&sch_text=
 15087149,한국전기안전공사_월별 전기안전 사고유형 (활선구간착각)_20240307,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15087149/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00052&refer_url=&mediaId=8f6bb99ce2004ad696da0cd35d3b6291&user_di=&file_id=&apiYn=Y&currentPage=4&sch_type=all&sch_text=
 15087150,한국전기안전공사_월별 전기안전 사고유형 (변압기 절연유 채취 감전 사고)_20240322,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15087150/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00052&refer_url=&mediaId=b056689ca1644d3688f1b7defdb05eba&user_di=&file_id=&apiYn=Y&currentPage=2&sch_type=all&sch_text=
+15087167,기후에너지환경부 국립환경과학원_대기환경월보_20210228,기후에너지환경부 국립환경과학원,,외부,,,2026-11-20,공공저작물 : 자유이용 (제 0유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15087167/fileData.do,https://ecolibrary.me.go.kr/nier/#/search/detail/5716900
 15087471,대구광역시_대기질 월평균 자료_20241231,대구광역시,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15087471/fileData.do,https://air.daegu.go.kr/index.do?menu_id=00000852
 15087481,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15087483,대구광역시_대기질 연평균 자료_20241231,대구광역시,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15087483/fileData.do,https://air.daegu.go.kr/index.do?menu_id=00000851
@@ -210,19 +339,28 @@
 15088513,한국전기안전공사_정전작업 중 사고 동영상_20240307,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15088513/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00052&refer_url=&mediaId=bc9c24892f954779ae93ea0993dcc28e&user_di=&file_id=&apiYn=Y&currentPage=4&sch_type=all&sch_text=
 15088614,한국전기안전공사_작업현장 전기안전 동영상_20240105,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15088614/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?mediaId=165aa676713a4ab28e5ac891683d9f4c&apiYn=Y&bbsSettingMap={BBS_TYPE_CODE=110}&bbs_code=PRB00002
 15088615,한국전기안전공사_외출 시 전기안전 동영상_20240105,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15088615/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?mediaId=fd45226614894accabb970916bb588a9&apiYn=Y&bbsSettingMap={BBS_TYPE_CODE=110}&bbs_code=PRB00002
+15088617,대구광역시 서구_대기오염물질배출시설_20260101,대구광역시 서구,대구광역시 서구_대기오염물질배출시설_20260101.csv,보관,0.04,d0e6cecd2992a1cd,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15088617/fileData.do,
+15089030,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15089560,소방청_소방안전 체험차량 운영 현황_20201231,소방청,소방안전 체험차량 운영 현황.csv,보관,0.00,bbe97f073de209b6,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15089560/fileData.do,
 15089564,소방청_119 구급상황관리센터 운영 현황_20201231,소방청,119 구급상황관리센터 운영 현황.csv,보관,0.00,00134a65b23d94a8,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15089564/fileData.do,
 15089565,소방청_연도별 119구급대 현황_20201231,소방청,연도별 119구급대 현황.csv,보관,0.00,f5916d09c78f0178,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15089565/fileData.do,
 15089566,소방청_연도별 119구급활동 현황_20201231,소방청,연도별 119구급활동 현황.csv,보관,0.00,819e4e31a8b7c1da,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15089566/fileData.do,
+15089718,보건복지부_국민기초생활보장사업안내_20260101,보건복지부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지, 변경금지 (제 4유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15089718/fileData.do,https://www.mohw.go.kr/board.es?mid=a10402000000&bid=0009&act=view&list_no=1489764&tag=&nPage=1
 15089791,국토교통부_지역별 교통안전 현황표_20241231,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15089791/fileData.do,https://tmacs.kotsa.or.kr/web/TG/TG200/TraSafeReport/SaftyExcelReport.jsp?mid=S1891
 15089797,국토교통부_지자체별 교통안전 통계_20241231,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15089797/fileData.do,https://tmacs.kotsa.or.kr/web/TG/TG200/TG2100/Tg2114.jsp?mid=S1894
 15089800,국토교통부_지자체 교통안전 관련지표_20241231,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15089800/fileData.do,https://tmacs.kotsa.or.kr/web/TG/TG200/TG2100/Tg2126.jsp?mid=S1893
+15090165,기상청_기후평년값_20210927,기상청,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15090165/fileData.do,https://data.kma.go.kr/climate/average30Years/selectAverage30YearsKoreaList.do?pgmNo=188
 15090340,한국지역난방공사_건물별 지역난방 공급현황 정보_20221231,한국지역난방공사,"지역난방 공급건물 현황(시군구, 2020~2022).csv",보관,1.82,008a8bb08590df9c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15090340/fileData.do,
 15090394,한국전력공사_배전 단가공사 계약업체 현황_20221229,한국전력공사,한국전력공사_배전 단가공사 계약업체 현황.csv,보관,0.52,500ea3488a3cef8d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15090394/fileData.do,
 15090410,기상청_서리일수_20210927,기상청,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15090410/fileData.do,https://data.kma.go.kr/climate/frst/selectFrstChart.do?pgmNo=705
+15090423,기상청_통보문_20210928,기상청,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15090423/fileData.do,https://www.weather.go.kr/w/weather/warning/list.do
+15091070,한국노인인력개발원_노인일자리 홍보영상_20180103,한국노인인력개발원,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15091070/fileData.do,https://www.kordi.or.kr/content.do?mode=view&page=2&cid=7295&cmsId=186
+15091081,한국노인인력개발원_노인일자리 및 사회활동 지원사업 정책 방향 소개_20200416,한국노인인력개발원,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15091081/fileData.do,https://www.kordi.or.kr/content.do?bid=253&mode=view&cid=357313&page=1&cmsId=186
 15091490,한국가스안전공사_KGS Code(상세기준) 현황_고압가스법_20260901,한국가스안전공사,75.한국가스안전공사_KGS Code(상세기준) 현황_고압가스법_2026.csv,보관,0.01,b450161cca93455d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15091490/fileData.do,
+15091980,기상청 항공기상청_공항기상레이더(TDWR) ALERT_20201213,기상청 항공기상청,TDWR_ALERT_fixed.zip,보관,3.50,92b1b8517f6fc926,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15091980/fileData.do,
 15092215,산림청 산림항공본부_공중진화대구조실적_20251231,산림청 산림항공본부,27. 공중진화대구조실적(2021~2025).csv,보관,0.00,a29e4208921d1f6f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15092215/fileData.do,
 15092270,대구광역시 서구_한파쉼터_20260130,대구광역시 서구,대구광역시_서구_한파쉼터_20260130.csv,보관,0.00,65261a105cffe590,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15092270/fileData.do,
+15092303,한국전력공사_장애인 생산품 구매실적_20251231,한국전력공사,한국전력공사_장애인 생산품 구매실적_20251231.csv,보관,0.00,40f36d35d08ba3a5,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15092303/fileData.do,
 15092559,기후에너지환경부 국가미세먼지정보센터_국가 대기오염물질 배출량 기초자료구축을 위한 표준업무절차서_20160101,기후에너지환경부 국가미세먼지정보센터,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15092559/fileData.do,https://www.air.go.kr/article/view.do?boardId=8&articleId=89&boardId=8&menuId=49&currentPageNo=1
 15093591,대구광역시 서구_전통시장 현황_20250612,대구광역시 서구,대구광역시 서구_전통시장 현황_20250612.csv,보관,0.00,bab4629d7e438c0b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15093591/fileData.do,
 15093592,대구광역시 서구_무더위쉼터_20250204,대구광역시 서구,대구광역시 서구_무더위쉼터_20250204.csv,보관,0.01,2a6530a6a3ca6d78,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15093592/fileData.do,
@@ -232,8 +370,10 @@
 15095002,대구광역시_의료민간이송업체 현황(SHP)_20200413,대구광역시,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15095002/fileData.do,https://data.daegu.go.kr/open/data/dataView.do?dataSetId=DMI_0000084574&dataSetDetailId=DDI_0000084584&provdMethod=MAP
 15095005,대구광역시_재난예경보시설 현황(SHP)_20200413,대구광역시,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15095005/fileData.do,https://data.daegu.go.kr/open/data/dataView.do?dataSetId=DMI_0000084611&dataSetDetailId=DDI_0000084621&provdMethod=MAP
 15095238,기상청_날씨 이슈별 데이터(한파)_20211129,기상청,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15095238/fileData.do,https://data.kma.go.kr/data/weatherIssue/cdwvList.do?pgmNo=723
+15095239,기상청_날씨 이슈별 데이터(태풍)_20211124,기상청,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15095239/fileData.do,https://data.kma.go.kr/data/weatherIssue/typList.do?pgmNo=724
 15095296,대구광역시 서구_띠녹지 현황_20241231,대구광역시 서구,대구광역시 서구_띠녹지 현황_20241231.csv,보관,0.00,49a0ced80db000b3,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15095296/fileData.do,
 15095881,대구광역시 북구_전통시장 현황(시장별)_20260629,대구광역시 북구,대구광역시 북구_전통시장 현황(시장별)_20260629.csv,보관,0.00,fc3afe1436de91fa,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15095881/fileData.do,
+15097757,한국노인인력개발원_노인일자리 Song_20200416,한국노인인력개발원,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15097757/fileData.do,https://kordi.or.kr/content.do?bid=253&mode=view&cid=357314&page=2&cmsId=186
 15097972,행정안전부_지역별(행정동) 성별 연령별 주민등록 인구수_20261031,행정안전부,지역별(행정동) 성별 연령별 주민등록 인구수_20261031.csv,보관,2.57,2df47b6ab9ee31a4,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15097972/fileData.do,
 15097973,행정안전부_지역별(행정동) 성별 연령별 주민등록 1인세대수_20261031,행정안전부,지역별(행정동) 성별 연령별 주민등록 1인세대수_20261031.csv,보관,2.15,2144309a99157edf,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15097973/fileData.do,
 15097974,행정안전부_지역별(행정동) 세대원수별 주민등록 세대수_20261031,행정안전부,지역별(행정동) 세대원수별 주민등록 세대수_20261031.csv,보관,0.32,4069ae39ab8ddd42,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15097974/fileData.do,
@@ -248,6 +388,8 @@
 15100802,기상청_우박일수_20220601,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15100802/fileData.do,https://data.kma.go.kr/climate/hail/selectHailChart.do?pgmNo=698
 15100810,기상청_한파일수_20220601,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15100810/fileData.do,https://data.kma.go.kr/climate/cdwv/selectCdwvChart.do?pgmNo=733
 15101311,한국전력공사_용도별 전력사용량_20220430,한국전력공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15101311/fileData.do,https://bigdata.kepco.co.kr/cmsmain.do?scode=S01&pcode=000505&pstate=L&redirect=Y
+15101601,한국토지주택공사_장애인 생산품 구매실적_20240307,한국토지주택공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15101601/fileData.do,https://www.lh.or.kr/board.es?mid=a10103010000&bid=0007&act=view&nPage=1&list_no=654668
+15102146,대구광역시 동구_노인일자리현황_20260327,대구광역시 동구,대구광역시 동구 노인일자리현황_20260327.csv,보관,0.01,385318351a786556,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15102146/fileData.do,
 15102398,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15102529,한국전기안전공사_전기화재 위험성 재연(트래킹)_20240307,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15102529/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00053&refer_url=&mediaId=0ab4eacae9a54a1195b8b7762f75a9a6&user_di=&file_id=&apiYn=Y&currentPage=3&sch_type=all&sch_text=
 15102530,한국전기안전공사_동파방지 열선의 화재 위험성 재연_20240322,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15102530/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00053&refer_url=&mediaId=ffe1411990c1486aa6793f2e2de0e283&user_di=&file_id=&apiYn=Y&currentPage=1&sch_type=all&sch_text=
@@ -269,12 +411,15 @@
 15109655,대구광역시_가로수정보_20221209,대구광역시,대구광역시_가로수정보(31종-포털등록용)_20221209.csv,보관,38.01,26908cf385f25343,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15109655/fileData.do,
 15109867,대구광역시 북구_전통시장 현황정보 데이터_20221212,대구광역시 북구,대구 북구 전통시장 현황정보.csv,보관,0.01,b5b2d8daeadf32f1,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15109867/fileData.do,
 15109953,대구광역시 달서구_전통시장 현황정보 데이터_20221213,대구광역시 달서구,달서구_전통시장_현황정보.csv,보관,0.00,f232b6b1e6adee33,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15109953/fileData.do,
+15112026,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15112361,대구광역시_안전센터별 구급차 현황_20230216,대구광역시,대구광역시_안전센터별 구급차 현황_20230216.csv,보관,0.00,f9fd34fdd0b373ce,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15112361/fileData.do,
 15112633,소방청_(119안전센터)_해양경찰청_(파출장소)_경찰청(치안센터)_주소_20260701,소방청,소방청(119안전센터)_해양경찰청(파출장소)_경찰청(치안센터)_주소.csv,보관,0.14,1404632e0cae6075,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15112633/fileData.do,
 15112638,한국승강기안전공단_승강기 설치 현황_20260630,한국승강기안전공단,한국승강기안전공단_승강기 설치 현황.zip,보관,32.98,853ce2d925f64d65,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15112638/fileData.do,
 15112639,한국승강기안전공단_승강기 검사 결과_20260630,한국승강기안전공단,한국승강기안전공단_승강기 검사 결과.csv,보관,88.92,5f41374e6ed4a93a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15112639/fileData.do,
 15113282,소방청_전국 소방서 및 119안전센터별 구급차 정보_20260701,소방청,소방청_전국 소방서 및 119안전센터별 구급차 정보_20260701.csv,보관,0.06,8b35866575a815d6,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15113282/fileData.do,
+15113503,대구광역시 달서구_행정동별 기초생활수급자_20260508,대구광역시 달서구,대구광역시_달서구_행정동별 기초생활수급자_20260508.csv,보관,0.00,17b26200332fe440,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15113503/fileData.do,
 15113688,대구광역시 달서구_독거노인_20260703,대구광역시 달서구,대구광역시 달서구_독거노인_20260703.csv,보관,0.00,4206f896be1477e5,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15113688/fileData.do,
+15116280,국민건강보험공단_노인장기요양보험 재가급여 종류별 이용 현황_20260731,국민건강보험공단,국민건강보험공단_노인장기요양보험 재가급여 종류별 이용 현황_20260731.csv,보관,0.61,46059f6319908f25,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15116280/fileData.do,
 15116392,한국사회보장정보원_민간복지서비스정보_20251105,한국사회보장정보원,한국사회보장정보원_민간복지서비스정보_20251105.csv,보관,0.19,9dbda5825482395c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15116392/fileData.do,
 15116826,대구광역시_기초생활수급자현황_20250701,대구광역시,대구광역시_기초생활수급자현황_202607.csv,보관,0.00,4698f6abaa87bba9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15116826/fileData.do,
 15117114,대구광역시_119안전센터 공간정보_20230721,대구광역시,119안전센터위치.zip,보관,0.00,513fc074c9cd1fd4,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15117114/fileData.do,
@@ -292,55 +437,84 @@
 15120310,산림청_산사태정보 재난복구비용 산정기준 단비추이 (공공시설)_20240927,산림청,산림청_산사태정보 재해복구단비 변동추이(공공시설)_20240927.csv,보관,0.00,8d6625c4feaa6b7a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15120310/fileData.do,
 15120311,산림청_산사태정보 재난복구비용 산정기준 단비추이 (사유시설)_20240927,산림청,산림청_산사태정보 재해복구단비 변동추이(사유시설)_20240927.csv,보관,0.00,88709825e993a1c4,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15120311/fileData.do,
 15120367,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15120804,한국전력공사_공동주택 전력·기상 융합데이터_20221231,한국전력공사,공동주택 전력·기상 융합데이터.zip,대용량-미보관,65.0,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15120804/fileData.do,--big 으로 받기
 15120900,산림청_도시숲가로수관리 가로수 현황_20250826,산림청,가로수_20250826.csv,대용량-미보관,143.1,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15120900/fileData.do,--big 으로 받기
 15121760,보건복지부 국립정신건강센터_국가 재난정신건강 전산시스템_수기통계_20230831,보건복지부 국립정신건강센터,국가재난정신건강전산시스템_수기통계(2023.8.31.).csv,보관,0.00,db4f4bacf7b83bca,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15121760/fileData.do,
 15122589,국민건강보험공단_월별 온열질환자 수_20251231,국민건강보험공단,국민건강보험공단_연도별 온열질환자 수_202512.csv,보관,0.00,4d9d4e7dc03f0c6c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15122589/fileData.do,
 15122778,한국환경공단_에어코리아_실시간 통합대기환경지수_20221231,한국환경공단,2022년 통합대기환경지수.xlsx,대용량-미보관,128.4,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15122778/fileData.do,--big 으로 받기
+15122803,한국환경공단_사업장대기오염물질 측정값 측정기기 사업장 등_20260309,한국환경공단,한국환경공단_사업장대기오염물질 측정값 측정기기 사업장 등.zip,보관,0.24,daf4d1386b7ab216,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15122803/fileData.do,
 15122866,질병관리청_온열질환 감시체계_20250925,질병관리청,,외부,,,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지 (제 2유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15122866/fileData.do,https://www.kdca.go.kr/kdca/4922/subview.do
 15122957,산림청_산림임업통계플랫폼 미세먼지 저감사업 조사정보(바람길숲차단숲 일반토지현황조사표)_20211231,산림청,일반·토지현황조사표_2021_수정.csv,보관,0.03,46876c1d528e2fc9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15122957/fileData.do,
+15123064,기상청 항공기상청_항공고정통신망 수집자료_20260929,기상청 항공기상청,AFTN_METAR_DECODE_260929_수정_3.zip,보관,0.00,e1097930ea431801,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15123064/fileData.do,
+15123083,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15123135,기상청 항공기상청_항공기사_20260929,기상청 항공기상청,AIR_ISCS_20260929.zip,보관,0.01,8618dc4dd70952a0,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15123135/fileData.do,
+15123151,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15123180,국토교통부_화재빈도에 대한 취약지역 분석_20220101,국토교통부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15123180/fileData.do,https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?dsId=20251226DS00043&svcCde=MK
 15123453,한국승강기안전공단_승강기 사고통계_20231231,한국승강기안전공단,한국승강기안전공단_승강기 사고통계.zip,보관,0.00,7bc663e1d7f7e844,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15123453/fileData.do,
 15123456,한국승강기안전공단_승강기 고장통계_20231231,한국승강기안전공단,한국승강기안전공단_승강기 고장통계.zip,보관,0.00,a905454b3a4030c1,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15123456/fileData.do,
 15123649,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15124047,한국지역난방공사_시간대별 기상실측 확정 정보_20230706,한국지역난방공사,시간대별 기상실측 확정 정보.csv,보관,1.83,c9fe54fec9243586,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124047/fileData.do,
+15124053,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15124058,한국지역난방공사_전력수요 기상 실측_20230707,한국지역난방공사,전력수요기상실측_20230707.csv,보관,0.16,5dba09e1944de723,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124058/fileData.do,
 15124185,소방청_구급활동정보병원제공_환자이송 현황_20230831,소방청,소방청_구급활동정보병원제공시스템_구급환자이송 현황.zip,보관,0.02,7b84b52b2a85e07d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124185/fileData.do,
 15124193,소방청_소방민원정보_의용소방대_20230831,소방청,15124193.bin,보관,0.00,e3b0c44298fc1c14,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124193/fileData.do,
 15124249,소방청_소방장비통합관리_소방장비 보유기준 및 현황_20230831,소방청,15124249.bin,보관,0.00,e3b0c44298fc1c14,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124249/fileData.do,
 15124251,소방청_민원정보_소방안전관리_20230831,소방청,15124251.bin,보관,0.00,e3b0c44298fc1c14,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124251/fileData.do,
 15124423,소방청_서울시 읍면동 단위 화재 발생 현황_20231012,소방청,서울시 읍면동 단위 화재현황.csv,보관,0.63,cec944bcafd39787,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124423/fileData.do,
 15124464,소방청_수난사고 실종자 24시간 이내 미발견 구조 현황_20230630,소방청,최근 10년간 수난사고 실종자 24시간 이내 미발견 구조 현황.csv,보관,0.08,28d85414ccd4ed59,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124464/fileData.do,
+15124581,한국노인인력개발원_기초연금 수급 노인 중 연금 합계액이 월60만원 미만인 고령자 수_20231023,한국노인인력개발원,한국노인인력개발원_기초연금 수급 노인 중 연금 합계액이 월60만원 미만인 고령자 수_20231023.csv,보관,0.00,e8413533dbbe51f9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124581/fileData.do,
 15124773,행정안전부_지역별(행정동) 세대주의 성별 연령별 현황_20261031,행정안전부,지역별(행정동) 세대주의 성별 연령별 현황_20261031(1).csv,보관,2.29,e0388309e0242856,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15124773/fileData.do,
 15125087,소방청_건설현장 화재 건수_20231001,소방청,건설현장 화재 현황(2010~2023. 9.).csv,보관,0.06,92f8baa0ccf696b1,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15125087/fileData.do,
 15125360,대구광역시_소방시설관련업 현황_20250213,대구광역시,"대구지역 소방관련업(공사업,설계업,감리업,방염업,관리업) 현황(2024.xlsx",보관,0.05,479747d7134d6351,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15125360/fileData.do,
 15125555,소방청_축사 화재 및 전체 화재 발생 현황_20231211,소방청,최근 10년 전체 화재현황.csv,보관,21.95,491d88245a916248,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15125555/fileData.do,
 15125556,소방청_축사 화재 현황_20231231,소방청,소방청_축사 화재 현황_20250710.csv,보관,0.02,5e606bc03a274017,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15125556/fileData.do,
+15126449,대구광역시 달서구_노인일자리사업현황_20260107,대구광역시 달서구,대구광역시_달서구_노인일자리사업현황_20260107.csv,보관,0.01,5da0034774c41c35,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15126449/fileData.do,
 15126536,소방청_다중이용업소 안전관리 우수업소 현황_20251109,소방청,2월 기준.csv,보관,0.26,0971c1cd2e8cf7eb,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15126536/fileData.do,
 15126731,국민건강보험공단_온열질환 및 한랭질환 진료 현황_20221231,국민건강보험공단,국민건강보험공단_온열질환 및 한랭질환 진료 현황.csv,보관,0.01,a6ada7d424db0dd6,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15126731/fileData.do,
 15127383,대구광역시 남구_한파쉼터_20260320,대구광역시 남구,대구광역시 남구_한파쉼터_20260320.csv,보관,0.01,5d0ee8e4075f7150,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127383/fileData.do,
 15127740,한국전력공사_제3자PPA 계약내역_20250930,한국전력공사,한국전력공사_제3자PPA 계약내역_20251231.csv,보관,0.00,c8daf1a848724a1e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127740/fileData.do,
+15127814,보건복지부_노인(65세이상)의 일반 특성_20231231,보건복지부,보건복지부_노인(65세이상)의 일반 특성_20231231.csv,보관,0.00,a437ba0a6bae9ae2,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127814/fileData.do,
 15127844,보건복지부_독거 장애인 서비스 지원현황_시도별_20241231,보건복지부,보건복지부_독거 장애인 서비스 지원현황_시도별_20241231.csv,보관,0.00,d6fb826d6786a616,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127844/fileData.do,
 15127846,보건복지부_독거노인 수_20211231,보건복지부,보건복지부_독거노인 수_20211231.csv,보관,0.00,30454ba12178b250,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127846/fileData.do,
 15127847,보건복지부_독거노인 수_연령별_시도별_20241231,보건복지부,보건복지부_독거노인 수_연령별_시도별_20241231.csv,보관,0.00,122b5c340cec8a5b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127847/fileData.do,
+15127852,보건복지부_등록장애인 수_장애종별_시도별_20241231,보건복지부,보건복지부_등록장애인 수_장애종별_시도별_20241231.csv,보관,0.03,337aa8af5b8d1ea3,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127852/fileData.do,
+15127866,보건복지부_노인 취업알선 실적_시도별_20191231,보건복지부,보건복지부_노인 취업알선 실적_시도별_20191231.csv,보관,0.00,5506e7165c90a058,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127866/fileData.do,
+15127876,보건복지부_노인복지 이용시설 현황_시설 종류별_시도별_20241231,보건복지부,보건복지부_노인복지 이용시설 현황_시설 종류별_시도별_20241231.csv,보관,0.02,6b14e2e5c5f594a6,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127876/fileData.do,
 15127892,보건복지부_급성심장정지 발생률_20231231,보건복지부,보건복지부_급성심장정지 발생률_20231231.csv,보관,0.01,a3b605c390b32bf7,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127892/fileData.do,
+15127922,보건복지부_장애인 지역사회 재활시설 및 의료재활시설 운영 현황_시도별_20241231,보건복지부,보건복지부_장애인 지역사회 재활시설 및 의료재활시설 운영 현황_시도별_20241231.csv,보관,0.01,0d53ca48d603012c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127922/fileData.do,
+15127923,보건복지부_장애인 직업재활시설현황_시도별_20241231,보건복지부,보건복지부_장애인 직업재활시설현황_시도별_20241231.csv,보관,0.01,817e6c53d883c402,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15127923/fileData.do,
+15128057,보건복지부_장애인 거주시설 수 및 입소 현황_20241231,보건복지부,보건복지부_장애인 거주시설 수 및 입소 현황_20241231.csv,보관,0.01,4d42c24135638512,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15128057/fileData.do,
 15128127,보건복지부_응급안전안심_서비스 대상자 기본정보_20240520,보건복지부,보건복지부_응급안전안심_서비스 대상자 기본정보_20240520.csv,보관,9.72,fed3b8efc26f0fcd,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15128127/fileData.do,
 15128151,보건복지부_응급안전안심_운영기관 보유장비 정보_20240520,보건복지부,보건복지부_응급안전안심 운영기관 보유장비 정보_20240520.csv,대용량-미보관,137.2,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15128151/fileData.do,--big 으로 받기
+15129119,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15129235,대구광역시_사회복지관 현황_20240628,대구광역시,대구시 사회복지관 현황.csv,보관,0.00,af915b2e201129fe,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15129235/fileData.do,
+15129864,대구광역시 달성군_대기배출시설현황_20240829,대구광역시 달성군,대구광역시_달성군_대기배출시설현황_20240829.csv,보관,0.04,c2e701204f9ae633,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15129864/fileData.do,
 15129880,한국전기안전공사_동파방지 열선의 화재 위험성 실험_20240322,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15129880/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00053&refer_url=&mediaId=ffe1411990c1486aa6793f2e2de0e283&user_di=&file_id=&apiYn=Y&currentPage=1&sch_type=all&sch_text=
 15129890,한국전기안전공사_에어컨 실외기 사고 실험 영상_20240322,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15129890/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00053&refer_url=&mediaId=18936da66e67410ca00433974b45a8a8&user_di=&file_id=&apiYn=Y&currentPage=1&sch_type=all&sch_text=
+15130161,대구광역시 북구_대기배출시설설치사업장_20251121,대구광역시 북구,대구광역시 북구_대기배출시설설치사업장_20251121.csv,보관,0.07,ecee0ab65fa63ef6,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15130161/fileData.do,
 15130705,국민건강보험공단_특정 상병 그룹의 상급종합병원 진료인원_20240730,국민건강보험공단,국민건강보험공단_특정 상병 그룹의 상급종합병원 진료인원 .csv,보관,0.02,f41847d207f229d7,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15130705/fileData.do,
 15130798,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15130959,대구광역시 북구_홈페이지 재난대피소_20260825,대구광역시 북구,대구광역시 북구_홈페이지 재난대피소_20260825.csv,보관,0.01,4fdac73cd75fbbe4,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15130959/fileData.do,
+15131085,기상청 항공기상청_공항기상정보_20240805,기상청 항공기상청,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15131085/fileData.do,https://amo.kma.go.kr/weather/aviation/aviation-info1.do
 15131142,행정안전부 국가재난안전교육원_과목 편성 과목정보_20261020,행정안전부 국가재난안전교육원,2026_행정안전부_국가재난안전교육원_과정 편성 과목정보.csv,보관,0.39,19e3afb9d2330a31,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15131142/fileData.do,
 15131143,행정안전부 국가재난안전교육원_기수별 설문정보_20261020,행정안전부 국가재난안전교육원,2026_행정안전부_국가재난안전교육원_기수설문정보.csv,보관,0.24,834efb8d6653ba1f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15131143/fileData.do,
 15131241,소방청_연도별 소방공무원 순직 및 공상자 현황_20251231,소방청,소방공무원 순직및 공상자 현황.zip,보관,0.16,76899a02e1672200,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15131241/fileData.do,
+15131256,대구광역시_대기오염물질배출사업장_20250325,대구광역시,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15131256/fileData.do,https://air.daegu.go.kr/index.do?menu_id=00000780
 15131366,행정안전부_재난안전제품 인증현황_20260630,행정안전부,재난안전제품 리스트_(공공데이터 포털)-2026년 상반기.csv,보관,0.06,d55b54fd9542e27d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15131366/fileData.do,
+15131484,기후에너지환경부 한강홍수통제소_공통사용 및 수문기상 관련 정보_20240808,기후에너지환경부 한강홍수통제소,15131484.bin,보관,0.00,e3b0c44298fc1c14,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15131484/fileData.do,
 15131809,소방청_인명피해 중 장애인 현황_20221231,소방청,장애인 인명피해 현황_20년_22년.xlsx,보관,0.11,70aabacfb2c32a6d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15131809/fileData.do,
 15132482,행정안전부_겨울철 재해우려지역 현황_20251114,행정안전부,겨울철 재해우려지역 현황('25~'26)_공공데이터 등록.csv,보관,0.00,e07dfe63c8dfa2c9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15132482/fileData.do,
 15132528,대구광역시_응급의료기관 현황_20250818,대구광역시,대구광역시_응급의료기관현황(2026.08).csv,보관,0.00,6a8205eaacb72c51,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15132528/fileData.do,
+15133499,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15133863,산림청_숲에 사는 식물 정보_20240826,산림청,숲에사는식물목록정보.csv,보관,0.14,c818c70b635364dc,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15133863/fileData.do,
+15133917,기상청_기상융합서비스_농업관광업_20150101,기상청,파일데이터개방_기상청_기상융합서비스_농업관광업.zip,보관,1.19,5ea9f6d0e62f4fe0,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15133917/fileData.do,
+15133994,한국지역난방공사_지사별 연간 대기오염물질 배출량 정보_20251231,한국지역난방공사,한국지역난방공사_지사별 연간 대기오염물질 배출량 정보_20251231.csv,보관,0.00,8a6a41080f19d87f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15133994/fileData.do,
 15134907,국토교통부_폭염 취약계층 및 지원 우선 지역 분석_에너지효율화 지원대책_20220101,국토교통부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15134907/fileData.do,https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?dsId=20251226DS00007&svcCde=MK
 15134925,국토교통부_폭염 취약계층 및 지원 우선 지역 분석_에너지바우처 지원대책_20220101,국토교통부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15134925/fileData.do,https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?dsId=20251226DS00006&svcCde=MK
 15134927,국토교통부_폭염 취약계층 및 지원 우선 지역 분석_무더위쉼터 지원대책_20220101,국토교통부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15134927/fileData.do,https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?dsId=20251226DS00005&svcCde=MK
+15134930,국토교통부_농업용 미(micro)기상 관측시설 설치를 위한 기상공백지역 분석_20220101,국토교통부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15134930/fileData.do,https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?dsId=20251226DS00011&svcCde=MK
 15134935,국토교통부_HACCP 인증과 식품안전사고 발생 상관 관계 분석_20220101,국토교통부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15134935/fileData.do,https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?dsId=20251226DS00039&svcCde=MK
+15135016,기상청 항공기상청_공항기상관측장비 데이터_20260929,기상청 항공기상청,공항기상관측데이터_20260929_수정.zip,보관,0.07,c913b1df754caed9,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15135016/fileData.do,
 15135165,대구광역시_소방 구조구급 구급보고서 심뇌혈관_20240906,대구광역시,대구광역시소방 구조구급 구급보고서 심뇌혈관.csv,보관,0.05,06da8cb3fd43340d,2026-11-20,이용허락범위 제한 없음,전자기록매체 저장 제공,https://www.data.go.kr/data/15135165/fileData.do,
 15135188,대구광역시_소방 구조구급 구급보고서 심폐정지_20240906,대구광역시,대구광역시_소방 구조구급 구급보고서 심폐정지.csv,보관,0.04,552dddba2c58d9cd,2026-11-20,이용허락범위 제한 없음,전자기록매체 저장 제공,https://www.data.go.kr/data/15135188/fileData.do,
 15135189,대구광역시_소방 구조구급 구급보고서 정보_20240906,대구광역시,대구광역시_소방 구조구급 구급보고서 정보.csv,보관,0.23,70662e4526cd8d39,2026-11-20,이용허락범위 제한 없음,전자기록매체 저장 제공,https://www.data.go.kr/data/15135189/fileData.do,
@@ -386,8 +560,11 @@
 15136291,대구광역시_소방 구조구급 구급관제진행사항(출동대정보)_20240801,대구광역시,대구광역시_소방 구조구급 구급관제진행사항.csv,보관,0.28,e9549594d5a41f4e,2026-11-20,이용허락범위 제한 없음,전자기록매체 저장 제공,https://www.data.go.kr/data/15136291/fileData.do,
 15136319,대구광역시_소방 긴급구조 출동관제내역(출동지령)_20240801,대구광역시,대구광역시_소방 긴급구조 출동관제내역(2424080101).csv,보관,0.71,036dbbf91056d92d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15136319/fileData.do,
 15136322,대구광역시_소방 긴급구조 의료기관정보(병상정보)_20240910,대구광역시,대구광역시_소방 긴급구조 의료기관정보.csv,보관,0.03,a10471749c221afe,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15136322/fileData.do,
+15137221,기상청 국가기상위성센터_기상청 국가기상위성센터_북극해빙자료_20240831,기상청 국가기상위성센터,기상청 국가기상위성센터_북극해빙자료.zip,보관,0.53,b707e5892a8fb3e2,2026-11-20,공공저작물 : 출처표시 (제 1유형),공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15137221/fileData.do,
+15137231,기상청 국가기상위성센터_위성정보_20240831,기상청 국가기상위성센터,기상청 국가기상위성센터_위성정보.zip,보관,0.08,c67523519b7870ec,2026-11-20,공공저작물 : 출처표시 (제 1유형),공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15137231/fileData.do,
 15138154,한국승강기안전공단_사고 승강기 관리 현황_20110830,한국승강기안전공단,한국승강기안전공단_2012년 이전 사고 승강기 관리 현황.csv,보관,0.02,26cadf08cb8c9110,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15138154/fileData.do,
 15138232,소방청_전국소방서 좌표현황(XY좌표)_20240901,소방청,전국 소방서 및 안전센터 XY좌표.csv,보관,0.17,b65a8bb8e2197f89,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15138232/fileData.do,
+15138261,기상청 국립기상과학원_기후예측모델 모니터링를 위한 시스템 메뉴 및 페이지_20240925,기상청 국립기상과학원,기상청 국립기상과학원_기후예측모델 모니터링를 위한 시스템 메뉴 및 페이지.zip,보관,0.26,0fab03c794225afa,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15138261/fileData.do,
 15138334,한국승강기안전공단_승강기 사고 및 고장 초동조사 문자발송 내역_20240926,한국승강기안전공단,한국승강기안전공단_승강기 사고 및 고장 초동조사 문자발송 내역.csv,보관,0.01,1c315103af96deb3,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15138334/fileData.do,
 15138343,한국승강기안전공단_승강기 고장으로 인한 119 출동 현황_20240812,한국승강기안전공단,한국승강기안전공단_승강기 고장으로 인한 119 출동 현황.csv,보관,0.03,5ee2bccb16e83a57,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15138343/fileData.do,
 15138390,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
@@ -395,8 +572,10 @@
 15138615,소방청_전기차 화재 발생 현황_20241231,소방청,전기차 화재 발생 현황(2024).csv,보관,0.01,aae2109a774fe40e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15138615/fileData.do,
 15139158,소방청_119구급서비스 통계연보_20251231,소방청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15139158/fileData.do,https://www.nfa.go.kr/nfa/releaseinformation/statisticalinformation/main/?boardId=bbs_0000000000000019&mode=view&cntId=81&category=&pageIdx=&searchCondition=&searchKeyword=
 15139562,국토교통부_위험물질운송안전관리_기상특보정보_20251231,국토교통부,2025_기상특보정보_수정.csv,보관,1.72,590e364819481dae,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15139562/fileData.do,
+15139938,한국노인인력개발원_노인 일자리 및 사회활동 지원사업 20년사_20241212,한국노인인력개발원,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15139938/fileData.do,https://kordi.or.kr/content.do?bid=248&mode=view&page=&cid=554622&sf_category=N107_1&cmsId=173
 15139957,기후에너지환경부 국가미세먼지정보센터_대기오염물질 배출 감축량 산정방법 편람_20240415,기후에너지환경부 국가미세먼지정보센터,,외부,,,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지, 변경금지 (제 4유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15139957/fileData.do,https://air.go.kr/article/view.do?boardId=8&articleId=389&boardId=8&menuId=49&currentPageNo=1
 15140211,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15140486,국가데이터처_SGIS_통계주제도_복지와문화_기초생활수급자 분포현황_20231231,국가데이터처,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15140486/fileData.do,https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=zDqtEJsnto20160629174353410zruH9H2Ltu&theme=CTGR_003&mapType=03&CTGRS=CTGR_001
 15140518,국가데이터처_SGIS_통계주제도_건강과안전_보행자 교통사고 발생 현황_20231231,국가데이터처,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15140518/fileData.do,https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=wPsSdFX8Wt20210520161423833UZjHClj5U3&theme=CTGR_005&mapType=05&CTGRS=CTGR_001
 15140520,국가데이터처_SGIS_통계주제도_건강과안전_응급의료시설 접근현황_20231231,국가데이터처,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15140520/fileData.do,https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=2qAx0jvYOk20180802165500441EHhhaQZQaK&theme=CTGR_005&mapType=03&CTGRS=CTGR_001
 15140525,국가데이터처_SGIS_통계주제도_건강과안전_생활안전사고 출동건수_20231231,국가데이터처,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15140525/fileData.do,https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=QNj43PFUT220190612100733746ocaFOXLaj3&theme=CTGR_005&mapType=05&CTGRS=CTGR_001
@@ -405,21 +584,46 @@
 15140532,국가데이터처_SGIS_통계주제도_건강과안전_교통사고 건수 및 사망자수_20231231,국가데이터처,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15140532/fileData.do,https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=DKwow5IqnH20160202203129218uw8DsJoFJK&theme=CTGR_005&mapType=06&CTGRS=CTGR_001
 15140533,국가데이터처_SGIS_통계주제도_건강과안전_화재사고 발생건수 증감현황_20231231,국가데이터처,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15140533/fileData.do,https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=pMJE7uJ8qv20160121115806994DKMH32nD02&theme=CTGR_005&mapType=04&CTGRS=CTGR_001
 15140537,국가데이터처_SGIS_통계주제도_환경과기후_미세먼지 대기오염도 현황_20221231,국가데이터처,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15140537/fileData.do,https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=9pyrpJvwHw20160121115806991GvpLyuuwDt&theme=CTGR_006&mapType=03&CTGRS=CTGR_001
+15140538,국가데이터처_SGIS_통계주제도_환경과기후_일산화탄소 대기오염도 현황_20221231,국가데이터처,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15140538/fileData.do,https://sgis.kostat.go.kr/view/thematicMap/thematicMapMain?stat_thema_map_id=EItIIxKpqw20160121115806992KLww5xGJKJ&theme=CTGR_006&mapType=03&CTGRS=CTGR_001
 15141678,행정안전부_통합관제센터 CCTV 운영현황_20251231,행정안전부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15141678/fileData.do,https://www.safetydata.go.kr/disaster-data/view?dataSn=3809
 15143534,소방청_가스누출(폭발) 화재 발생 현황_20251231,소방청,가스누출 화재 현황통계(24~25).csv,보관,0.02,673e4313c36c7909,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15143534/fileData.do,
 15143782,국민건강보험공단_서울특별시 온열 및 냉해 질환 진료인원 현황_20231231,국민건강보험공단,국민건강보험공단_서울특별시 온열 및 냉해 질환 진료인원 현황.csv,보관,0.00,177f1adf250d50b7,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15143782/fileData.do,
 15143928,한국전기안전공사_어린이 모의 재난대피 훈련_20240403,한국전기안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15143928/fileData.do,https://www.kesco.or.kr/bbs/pr/selectBbs.do?bbs_code=PRB00052&refer_url=&mediaId=cdb7b6de21a54e3f98ac319316abf1bc&user_di=&file_id=&apiYn=Y&currentPage=1&sch_type=all&sch_text=
 15144422,국가데이터처_SGIS_통계주제도_생활안전사고주기별카테고리_20241231,국가데이터처,통계주제도_생활안전사고주기별카테고리.csv,보관,0.06,46ca21228be69524,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15144422/fileData.do,
+15144532,국립중앙의료원_연령별 집중검진 대상자 조기검진 사업 이용자 수_20241231,국립중앙의료원,연령별 집중검진 대상자 조기검진 사업 이용자 수.csv,보관,0.00,9302225be4909c60,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15144532/fileData.do,
+15144843,국민건강보험공단_장애인 건강주치의 의료기관 목록_20250721,국민건강보험공단,국민건강보험공단_장애인 건강주치의 의료기관 목록.csv,보관,0.10,10f21eaa0136ad7f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15144843/fileData.do,
 15145038,국토교통부 항공교통본부_소방 서비스 정보_20250805,국토교통부 항공교통본부,국토교통부_항공교통본부_소방 서비스 정보.csv,보관,0.00,ec677b3776587256,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15145038/fileData.do,
 15145052,기상청_기후통계분석 순위값_20250805,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15145052/fileData.do,https://data.kma.go.kr/climate/extremum/selectExtremumStnList.do?pgmNo=185
+15145059,기상청_데이터품질현황_20250805,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15145059/fileData.do,https://data.kma.go.kr/data/qualityInfo/qcPresentList.do?pgmNo=676
 15145061,기상청_기상요소 조건별통계_20250805,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15145061/fileData.do,https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do?pgmNo=179
+15145137,기상청_해양 기상기후정보 및 월별 기후분석정보 간행물_20250806,기상청,,외부,,,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지 (제 2유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15145137/fileData.do,https://marine.kma.go.kr/mmis/Notice?board=publication
+15146760,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15146761,기상청 국가기상위성센터_홈페이지정보_20250811,기상청 국가기상위성센터,기상청 국가기상위성센터_홈페이지정보.zip,보관,0.31,592503425636707d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15146761/fileData.do,
+15146768,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15147787,국토교통부_폭염 취약계층 및 지원 우선 지역 분석_의료기관 지원대책_20220101,국토교통부,,외부,,,2026-11-20,"공공저작물 : 출처표시, 변경금지 (제 3유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15147787/fileData.do,https://www.vworld.kr/dtmk/dtmk_ntads_s002.do?dsId=20251226DS00004&svcCde=MK
 15148351,대구광역시 수성구_무더위 쉼터_20260829,대구광역시 수성구,대구광역시 수성구_수성구 홈페이지 무더위 쉼터_20260829.csv,보관,0.03,218e29290a2adbc8,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15148351/fileData.do,
+15148421,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 15148839,기후에너지환경부 국립환경과학원_초미세먼지 계절전망_20251201,기후에너지환경부 국립환경과학원,계절전망_202512-202603.csv,보관,0.01,46112647f14c975c,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15148839/fileData.do,
+15149181,기상청 항공기상청_공항기상관측장비(AMOS)자료처리 표준화_센서정보_20250911,기상청 항공기상청,기상청 항공기상청_공항기상관측장비(AMOS)자료처리 표준화_센서정보_의견 보완_20251110_v1.xlsx,보관,0.03,93d23ab05d0b4b24,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15149181/fileData.do,
+15149182,기상청 국립기상과학원_ARGO 홈페이지관측운영현황_20260928,기상청 국립기상과학원,ARGO 홈페이지관측운영현황.zip,보관,0.91,c70b3e73bd2a2d39,2026-11-20,이용허락범위 제한 없음,전자기록매체 저장 제공,https://www.data.go.kr/data/15149182/fileData.do,
+15149223,기상청 국립기상과학원_고해상도기상기후정보 공지사항_미래풍력기상자원 시계열_20260928,기상청 국립기상과학원,고해상도 기상기후정보 표출시스템(CSV).zip,보관,0.23,b61b59a856b83315,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15149223/fileData.do,
+15149492,한국환경공단_대기오염물질 국가배경농도 합성데이터_20241231,한국환경공단,amb_hour_2022-2024_csv_synthetic_final_20250922.zip,보관,15.53,fc73dffe64fd96c5,2026-11-20,공공저작물 : 출처표시 (제 1유형),공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15149492/fileData.do,
 15149889,질병관리청_온열질환 감시 데이터_20250925,질병관리청,온열질환 발생 신고 데이터(2011-2025).CSV,보관,1.86,a2dff888b97e82ea,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15149889/fileData.do,
 15150145,보건복지부_지역별 기상특보 정보_20250811,보건복지부,지역별 기상특보 정보.csv,보관,3.77,2f51ac71d7cb5eb7,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15150145/fileData.do,
 15150303,기상청_대표 홈페이지 기상사진_20250923,기상청,,외부,,,2026-11-20,"공공저작물 : 출처표시, 상업적 이용금지 (제 2유형)",기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15150303/fileData.do,https://www.kma.go.kr/kma/news/photoExhibition.jsp
+15150326,기상청 항공기상청_공항기상관측장비(AMOS)_20260929,기상청 항공기상청,AMOS_20260929.zip,보관,0.01,c86d420a36f53522,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15150326/fileData.do,
+15150412,기후에너지환경부 국립환경과학원_광화학대기오염물질측정망 측정 항목_20241231,기후에너지환경부 국립환경과학원,환경부 국립환경과학원_광화학대기오염물질측정망 측정 항목.csv,보관,0.00,45c7f07434bc2d5b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15150412/fileData.do,
+15150432,기후에너지환경부 국립환경과학원_기상청 정규기상대 기상 자료_20241231,기후에너지환경부 국립환경과학원,환경부 국립환경과학원_기상청 정규기상대 기상 자료(샘플).csv,보관,0.59,1ded49db9566036e,2026-11-20,이용허락범위 제한 없음,전자기록매체 저장 제공,https://www.data.go.kr/data/15150432/fileData.do,
+15150439,기후에너지환경부 국립환경과학원_기상청 기상 자료_20241231,기후에너지환경부 국립환경과학원,환경부 국립환경과학원_기상청 기상 자료(샘플).csv,보관,0.59,1ded49db9566036e,2026-11-20,이용허락범위 제한 없음,전자기록매체 저장 제공,https://www.data.go.kr/data/15150439/fileData.do,
+15151455,기상청 국립기상과학원_연구성과 논문_20250630,기상청 국립기상과학원,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15151455/fileData.do,http://www.nims.go.kr/?sub_num=1072
+15151456,기상청 국립기상과학원_기상과학 간행물_20250630,기상청 국립기상과학원,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15151456/fileData.do,http://www.nims.go.kr/?sub_num=1076
+15151479,기상청 국립기상과학원_연구성과 기술이전_20251105,기상청 국립기상과학원,기상청 국립기상과학원_연구성과 기술이전.csv,보관,0.01,5cde31dec07a8bbe,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15151479/fileData.do,
+15151492,기상청 국립기상과학원_연구성과 특허 목록_20251105,기상청 국립기상과학원,기상청 국립기상과학원_연구성과 특허.csv,보관,0.04,1304b04ee21d0d85,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15151492/fileData.do,
+15151509,기상청 국립기상과학원_연구자료 제공 목록_20251105,기상청 국립기상과학원,기상청 국립기상과학원_연구자료 제공목록.csv,보관,0.01,c175f75ede6383bb,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15151509/fileData.do,
+15151725,산림청 국립산림과학원_홍릉숲 기상자료_20231231,산림청 국립산림과학원,홍릉숲 기상자료(21-23년).csv,보관,0.05,2d01a6d8facf2af3,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15151725/fileData.do,
 15152479,대구교통공사_에너지 사용량 및 온실가스 배출량_20251231,대구교통공사,에너지 사용량 및 온실가스 배출량.csv,보관,0.00,70dc1fedbe2e5244,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15152479/fileData.do,
+15152533,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+15152541,기상청 국립기상과학원_관련기관 사이트_20251105,기상청 국립기상과학원,기상청 국립기상과학원_관련기관 사이트.csv,보관,0.00,ebe01ac57d5bda15,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15152541/fileData.do,
 15153563,대구공공시설관리공단_차세대_수목관리 정보_20251121,대구공공시설관리공단,대구공공시설관리공단_차세대_수목관리 정보.zip,보관,0.10,d2de8b9c8fd30cb6,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15153563/fileData.do,
 15153790,대구광역시_국립중앙의료원 응급의료기관목록_20251031,대구광역시,대구지역 국립중앙의료원응급의료기관목록.csv,보관,0.00,7819c5804d04456f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15153790/fileData.do,
 15153810,대구광역시_소방대상물현황_20251101,대구광역시,소방대상물 현황.csv,보관,10.32,cdb465080ccf89fc,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15153810/fileData.do,
@@ -435,8 +639,10 @@
 15158370,소방청_소방시설 설치기준 개정연혁 및 자체점검 관련 법령집_20241101,소방청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15158370/fileData.do,https://www.nfa.go.kr/nfa/publicrelations/legalinformation/archives/?boardId=bbs_0000000000000018&mode=view&cntId=53&category=&pageIdx=1&searchCondition=all&searchKeyword=
 15158371,소방청_소방시설법령 질의회신집_20260112,소방청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/15158371/fileData.do,https://www.nfa.go.kr/nfa/publicrelations/legalinformation/archives/?boardId=bbs_0000000000000018&mode=view&cntId=63&category=&pageIdx=&searchCondition=&searchKeyword=
 15160441,한국가스안전공사_가스사고 사례_20260630,한국가스안전공사,260630_한국가스안전공사_가스사고 사례.hwpx,대용량-미보관,87.0,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15160441/fileData.do,--big 으로 받기
+15162052,기상청 국립기상과학원_기상기후이야기_20260826,기상청 국립기상과학원,기상기후이야기.csv,보관,0.14,9a0dc900924db434,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15162052/fileData.do,
 15162722,소방청_화재_20260831,소방청,공공데이터 요청자료(138028).csv,보관,17.01,9182e4e921f7d09b,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15162722/fileData.do,
 15163122,소방청_화재 정보_20260831,소방청,회재정보.csv,보관,31.22,d94b9fa9f9e3d145,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15163122/fileData.do,
+15165728,한국지역난방공사_(AI학습용)태양광 발전량 예측용 발전소 운영 및 기상 데이터_20260331,한국지역난방공사,한국지역난방공사_(AI학습용)태양광 발전량 예측용 발전소 운영 및 기상 데이터.zip,보관,4.13,52c47a4a3e6e6607,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15165728/fileData.do,
 15166606,대구광역시 북구_데이터통합플랫폼_장애노인현황_20210412,대구광역시 북구,대구광역시 북구_데이터통합플랫폼_장애노인현황_20210412.csv,보관,0.49,711751b71bab1337,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15166606/fileData.do,
 15166610,대구광역시 북구_데이터통합플랫폼_저소득노인현황_20210412,대구광역시 북구,대구광역시 북구_데이터통합플랫폼_저소득노인현황_20210412.csv,보관,0.20,1d4bce07704fd181,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15166610/fileData.do,
 15169014,대구교통공사_자전거 대여현황_20260930,대구교통공사,자전거 대여현황.csv,보관,0.33,0f96a4d17119cdd0,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/15169014/fileData.do,
@@ -447,8 +653,14 @@
 3034008,보건복지부 국립부곡병원_약물중독자 치료보호실적_20251231,보건복지부 국립부곡병원,국립부곡병원 약물중독자 치료보호실적(2025년).csv,보관,0.14,8740065d30dbb253,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3034008/fileData.do,
 3038742,소방청_구조기술정보_20181029,소방청,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/3038742/fileData.do,http://www.rescue.go.kr/user/square/rescuemethod/selectRescueMethodList.do
 3039714,국토교통부_공동주택 단지 관리비 정보_20240913,국토교통부,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/3039714/fileData.do,https://www.k-apt.go.kr/web/board/webReference/boardView.do?seq=21&boardSecret=0&boardType=03&pageNo=1&keyword=&board_pwd=&scodeT=03
+3040546,대구광역시 달서구_노인대학 현황_20260508,대구광역시 달서구,대구광역시_달서구_노인대학현황_20260508.csv,보관,0.00,2576e96d823e5e3a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3040546/fileData.do,
+3043338,기상청_통계분석_바람장미_20200101,기상청,,외부,,,2026-11-20,,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/3043338/fileData.do,https://data.kma.go.kr/climate/ObsValSearch/selectObsValSearchWindRose.do?pgmNo=161
 3046089,한국전기안전공사_행정구역별 전기화재 통계_20251231,한국전기안전공사,행정구역별 전기화재 통계.csv,보관,0.00,5e9de92499938585,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3046089/fileData.do,
 3048388,보건복지부 국립재활원_장애원인별통계정보_20251231,보건복지부 국립재활원,장애원인별 통계정보(2025년).csv,보관,0.00,5b25dc738cfd525d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3048388/fileData.do,
+3050727,보건복지부 국립재활원_장애인 보조기구 품목 및 분류 DB_20140622,보건복지부 국립재활원,장애인 보조기구 품목 및 분류체계 DB.csv,보관,0.24,98db47750b101639,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3050727/fileData.do,
+3051419,국민건강보험공단_노인장기요양보험 급여비 지급 현황_20251231,국민건강보험공단,국민건강보험공단_노인장기요양보험 급여비 지급 현황_20251231.csv,보관,0.00,224cd9a30c4a623a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3051419/fileData.do,
+3051420,국민건강보험공단_노인장기요양보험 인정현황_20251231,국민건강보험공단,국민건강보험공단_노인장기요양보험 인정현황_20251231.csv,보관,0.00,043289cf68e38b65,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3051420/fileData.do,
+3051421,국민건강보험공단_노인장기요양보험 등급판정 현황_20261031,국민건강보험공단,"2026년 10월 시도별 등급판정현황(성별, 연령별, 자격별).csv",보관,0.05,43f8acf2824aaa01,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3051421/fileData.do,
 3059160,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
 3060395,소상공인시장진흥공단_전국 전통시장 지원 현황_20260421,소상공인시장진흥공단,소상공인시장진흥공단_전국 전통시장 지원현황(20260421).csv,보관,0.03,d2573fe0c93f2e05,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3060395/fileData.do,
 3069242,한국가스안전공사_가스사고 통계_20220124,한국가스안전공사,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/3069242/fileData.do,https://www.kgs.or.kr/kgs/abcc/board.do
@@ -456,13 +668,24 @@
 3069512,경상북도 군위군_관내의료기관현황_20220905,대구광역시 군위군,경상북도_군위군_관내의료기관현황_20220905.csv,보관,0.00,c1cf667c3515c734,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3069512/fileData.do,
 3070435,한국지역난방공사 지역난방공급현황 정보_20211231,한국지역난방공사,한국지역난방공사_지역난방공급현황 정보_20211231.csv,보관,0.01,b30fe60376e0d29d,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3070435/fileData.do,
 3072205,대구광역시 일일재난 종합상황 정보_20250206,대구광역시,,외부,,,2026-11-20,이용허락범위 제한 없음,기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/3072205/fileData.do,http://www.daegu.go.kr/119/index.do?menu_id=00001614
+3072257,대구광역시 남구_노인복지시설 현황_20260919,대구광역시 남구,대구광역시 남구_노인복지시설 현황_20260919.csv,보관,0.02,6acdf7027debb4ce,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3072257/fileData.do,
+3072347,대구광역시_동구_노인복지시설현황_20260407,대구광역시 동구,대구광역시_동구_노인복지시설현황_20260407.csv,보관,0.02,98df7dc3cdc1da3f,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3072347/fileData.do,
 3072692,,,,오류,,,2026-11-20,,,,<urlopen error [Errno 104] Connection reset by peer>
+3073036,대구광역시 달서구_장애인 관련시설 현황_20260508,대구광역시 달서구,대구광역시 달서구_장애인관련시설현황_20260508.csv,보관,0.01,fe1e741a4790b3b6,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3073036/fileData.do,
+3073131,국민건강보험공단_현금급여비(장애인보조기기) 지급현황_20251231,국민건강보험공단,국민건강보험공단_현금급여비(장애인보조기기) 지급현황_20251231.csv,보관,0.00,d386c4d785d3dd78,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3073131/fileData.do,
 3073275,대구광역시_재난유형별 119신고_접수 건수_20251231,대구광역시,재난유형별 119신고접수건수(2017년_2025년).csv,보관,0.00,7bdae8cf1a7230d1,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3073275/fileData.do,
+3073666,한국노인인력개발원 노인일자리사업 참여노인 실태조사 자료_20230925,한국노인인력개발원,노인일자리사업_실태조사_참여노인_데이터_정보.zip,보관,3.36,74e6f1fcc699e54a,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3073666/fileData.do,
 3074199,대구광역시_화재통계_20260831,대구광역시,2026년 8월 화재발생현황.pdf,보관,0.52,de39c5610f79e2d8,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3074199/fileData.do,
+3074876,대구광역시 달서구_노인인구 현황_20261029,대구광역시 달서구,대구광역시 달서구_노인인구 현황_20261029.csv,보관,0.00,647f4ea0e1401331,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3074876/fileData.do,
 3074905,대구광역시 남구_통계연보 현황_20260801,대구광역시 남구,대구광역시 남구_통계연보 현황_20260801.zip,보관,0.75,143dcd97dec02022,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3074905/fileData.do,
 3075166,한국사회보장정보원_사회서비스 제공기관 정보_20260116,한국사회보장정보원,한국사회보장정보원_사회서비스_제공기관정보_20260116.csv,보관,0.01,101ecc503a4c6f65,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3075166/fileData.do,
+3075309,대구광역시 달서구_장애인 등록 현황_20260508,대구광역시 달서구,대구광역시_달서구_장애인등록현황_20260508.csv,보관,0.00,4e3146f428f8ef20,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3075309/fileData.do,
 3077757,대구광역시_주민등록인구및세대현황_20260831,대구광역시,대구광역시_주민등록인구및세대현황_202606_08월.csv,보관,0.00,d73a6a333d9a90f5,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3077757/fileData.do,
+3078592,보건복지부 국립재활원_장애인 운전교육 현황_20251231,보건복지부 국립재활원,7. 장애인 운전교육 현황(2025년).csv,보관,0.00,2b48e527f791c5d5,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3078592/fileData.do,
+3078701,기상청_가뭄정보_20240212,기상청,,외부,,,2026-11-20,공공저작물 : 출처표시 (제 1유형),기관자체에서 다운로드(제공데이터URL기재),https://www.data.go.kr/data/3078701/fileData.do,https://hydro.kma.go.kr/ext/lookup.do
 3081464,대구광역시 서구_재난신고전화_20260203,대구광역시 서구,,외부,,,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3081464/fileData.do,포털 파일 없음
+3084473,보건복지부_중증장애인 생산품 생산시설 지정현황_20241031,보건복지부,보건복지부_중증장애인 생산품 생산시설 지정현황_20241031 (1).csv,보관,0.15,32395d113114bd0e,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3084473/fileData.do,
+3084474,보건복지부_장애인활동지원 통계 정보_20251231,보건복지부,보건복지부_장애인활동지원 통계 정보_20251231.csv,보관,0.00,6567a93677246423,2026-11-20,이용허락범위 제한 없음,공공데이터포털에서 다운로드(원문파일등록),https://www.data.go.kr/data/3084474/fileData.do,
 OA-22266,서울 열린데이터광장,서울특별시,2022_10개_관심집단_수.zip,보관,21.74,ad6992479656892d,2026-11-20,열린데이터광장 표기 확인 필요,서울 열린데이터광장 파일,https://data.seoul.go.kr/dataList/OA-22266/F/1/datasetView.do,
 OA-22266,서울 열린데이터광장,서울특별시,2023.11월_10개 관심집단 수.xlsx,보관,1.08,ea29162d3de8b78c,2026-11-20,열린데이터광장 표기 확인 필요,서울 열린데이터광장 파일,https://data.seoul.go.kr/dataList/OA-22266/F/1/datasetView.do,
 OA-22266,서울 열린데이터광장,서울특별시,2023.12월_10개 관심집단 수.xlsx,보관,1.08,9d886d7c6f3450e9,2026-11-20,열린데이터광장 표기 확인 필요,서울 열린데이터광장 파일,https://data.seoul.go.kr/dataList/OA-22266/F/1/datasetView.do,
