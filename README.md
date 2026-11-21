@@ -10,6 +10,25 @@ scripts/fetch_datago.py  공공데이터포털(data.go.kr) 파일데이터 자�
 projects/                대회·프로젝트별로 어떤 데이터를 쓰는지 연결
 ```
 
+## 저장소 3개의 역할 (2026-11-21)
+| 저장소 | 공개 | 담는 것 |
+|---|---|---|
+| **data-vault** (여기) | 공개 | 공공데이터 **원본**과 원본 목록(`catalog.csv`). 공개 라이선스 자료만 |
+| **CREATIVE** | 비공개 | **통합 데이터 대장** `catalog/sources.csv`(모든 프로젝트·모든 출처, 보안 등급·위치·data-vault 경로), 가공본, 대회 자료 |
+| **highway-dispatch** | 비공개 | 출동 앱이 실제로 읽는 운영 데이터(`data/`, `db/`) — RESTRICTED 자료 포함 |
+
+- 새 데이터를 받으면: 원본은 여기 `raw/` + `catalog.csv`, 대장 한 줄은 CREATIVE `catalog/sources.csv`(`vault` 칸에 이 저장소 경로).
+- **RESTRICTED·CONFIDENTIAL**(기관 제공 자료, 소방 내부 차량현황, 연락처, 비상출입구 사진 등)은 이 저장소에 절대 올리지 않는다.
+
+## dataset_id 규칙
+| 형태 | 출처 |
+|---|---|
+| 숫자(예: `15000563`) | 공공데이터포털 data.go.kr 데이터셋 번호 |
+| `OA-xxxxx` | 서울 열린데이터광장 |
+| `bokjiro-<번호>` | 복지로 사회보장통계 |
+| `bigdata119-<번호>` | 소방안전 빅데이터 플랫폼 |
+| `osm-…`, `law-…`, `ex-openapi-…`, `its-…`, `vworld-…`, `admdongkor-…` | OpenStreetMap 추출, 자치법규 원문, 도로공사·ITS·브이월드 API, 행정동 경계 |
+
 ## 상태 값(catalog.csv)
 | 상태 | 뜻 |
 |---|---|
